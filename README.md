@@ -64,8 +64,8 @@ Ablations (v10, 5 seeds, mean ± std; `results/ablation_v10.txt`):
 | Full agent | 0.81 ± 0.06 | 11, 10, 8, 11, 11 |
 | no colour-wall inference | 0.73 ± 0.06 | 10, 9, 7, 10, 9 |
 | no arrow-key prior | 0.74 ± 0.06 | 12, 10, 7, 10, 9 |
-| no volatility mask | see file | |
-| Explorer only | 0.30 ± 0.07 | 7, 4, 7, 5 |
+| no volatility mask | 0.81 ± 0.09 | 11, 10, 8, 11, 10 |
+| Explorer only | 0.30 ± 0.06 | 7, 7, 4, 7, 5 |
 
 Probing + planning is worth about +0.5 RHAE over exploration alone. Volatility
 masking contributes nothing measurable once the planner exists.
