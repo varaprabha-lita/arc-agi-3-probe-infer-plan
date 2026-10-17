@@ -1,0 +1,37 @@
+nohup: ignoring input
+[full seed=1] cached score=0.8179063508057348
+[full seed=2] cached score=0.8782397999959666
+[full seed=3] cached score=0.7774904946043816
+[full seed=4] cached score=0.730192875156516
+[full seed=5] cached score=0.8534256999194137
+[no_colour_walls seed=1] cached score=0.7368909578810791
+[no_colour_walls seed=2] cached score=0.7972244070713108
+[no_colour_walls seed=3] cached score=0.6964751016797258
+[no_colour_walls seed=4] cached score=0.6491774822318603
+[no_colour_walls seed=5] cached score=0.7722646877293292
+[no_arrow_prior seed=1] cached score=0.7574379952406209
+[no_arrow_prior seed=2] cached score=0.7995656124265933
+[no_arrow_prior seed=3] cached score=0.6964751016797258
+[no_arrow_prior seed=4] cached score=0.649325032029769
+[no_arrow_prior seed=5] cached score=0.7722646877293292
+[no_volatility seed=1] cached score=0.8179063508057348
+[no_volatility seed=2] cached score=0.8782397999959666
+[no_volatility seed=3] running ...
+[no_volatility seed=3] score=0.8503767919804749
+[no_volatility seed=4] running ...
+[no_volatility seed=4] score=0.6573065777804227
+[no_volatility seed=5] running ...
+[no_volatility seed=5] score=0.853280080653985
+[explorer seed=1] running ...
+[explorer seed=1] score=0.30134977912023464
+[explorer seed=2] cached score=0.3666659170609394
+[explorer seed=3] cached score=0.26086628850058186
+[explorer seed=4] cached score=0.2141754067576061
+[explorer seed=5] cached score=0.3373159007478694
+
+config            n   mean    std    levels(sum over games, per seed)
+full              5   0.811  0.059   [11, 10, 8, 11, 11]
+no_colour_walls   5   0.730  0.059   [10, 9, 7, 10, 9]
+no_arrow_prior    5   0.735  0.061   [12, 10, 7, 10, 9]
+no_volatility     5   0.811  0.089   [11, 10, 8, 11, 10]
+explorer          5   0.296  0.061   [7, 7, 4, 7, 5]

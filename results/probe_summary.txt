@@ -1,0 +1,464 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-09-18 04:16:25 | INFO | Got anonymous API key: 41cf6032-2632-402b-be44-412ce8993c5a
+2026-09-18 04:16:25 | INFO | You can register for an API key at https://three.arcprize.org
+2026-09-18 04:16:27 | INFO | Successfully fetched 25 environment(s) from API
+2026-09-18 04:16:27 | INFO | Created new scorecard: 4b51fb44-5815-4303-977d-e7f7a7a49c92
+2026-09-18 04:16:28 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:28 | INFO | Successfully loaded game class Tn36 from environment_files/tn36/ef4dde99/tn36.py
+2026-09-18 04:16:29 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:30 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:31 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:32 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:33 | INFO | Successfully fetched metadata for game tn36
+2026-09-18 04:16:35 | INFO | Successfully fetched metadata for game tn36
+=== tn36  levels=7  actions=[6]
+  click (41,45) colour1 size3: 4 cells
+  click (41,42) colour1 size3: 4 cells
+  click (36,45) colour1 size3: 4 cells
+  click (36,42) colour1 size3: 4 cells
+  click (26,45) colour1 size3: 4 cells
+  click (26,42) colour1 size3: 4 cells
+2026-09-18 04:16:35 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:35 | INFO | Successfully loaded game class Dc22 from environment_files/dc22/fdcac232/dc22.py
+2026-09-18 04:16:36 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:37 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:38 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:38 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:39 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:41 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:42 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:42 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:43 | INFO | Successfully fetched metadata for game dc22
+2026-09-18 04:16:44 | INFO | Successfully fetched metadata for game dc22
+=== dc22  levels=6  actions=[1, 2, 3, 4, 6]
+  A1: move colour2 (+2,+0) size4 | no-op | 1 cells
+  A2: move colour14 (+2,+0) size4 | no-op | 1 cells
+  A3: move colour2 (+0,+2) size4 | no-op | 1 cells
+  A4: move colour14 (+0,+2) size4 | no-op | 1 cells
+  click (25,20) colour11 size4: 1 cells
+  click (11,40) colour14 size4: 1 cells
+  click (20,31) colour13 size16: 1 cells
+  click (11,36) colour9 size1: 1 cells
+  click (11,34) colour9 size1: 1 cells
+  click (10,37) colour9 size1: 1 cells
+2026-09-18 04:16:45 | INFO | Successfully fetched metadata for game re86
+2026-09-18 04:16:46 | INFO | Successfully loaded game class Re86 from environment_files/re86/8af5384d/re86.py
+2026-09-18 04:16:47 | INFO | Successfully fetched metadata for game re86
+2026-09-18 04:16:48 | INFO | Successfully fetched metadata for game re86
+2026-09-18 04:16:49 | INFO | Successfully fetched metadata for game re86
+2026-09-18 04:16:50 | INFO | Successfully fetched metadata for game re86
+2026-09-18 04:16:51 | INFO | Successfully fetched metadata for game re86
+=== re86  levels=8  actions=[1, 2, 3, 4, 5]
+  A1: move colour0 (-3,+0) size1 | move colour0 (-3,+0) size1 | move colour0 (-3,+0) size1
+  A2: move colour0 (+3,+0) size1 | move colour0 (+3,+0) size1 | move colour0 (+3,+0) size1
+  A3: move colour0 (+0,-3) size1 | move colour0 (+0,-3) size1 | move colour0 (+0,-3) size1
+  A4: move colour0 (+0,+3) size1 | move colour0 (+0,+3) size1 | move colour0 (+0,+3) size1
+  A5: move colour0 (-18,-15) size1 | move colour0 (+18,+15) size1 | move colour0 (-18,-15) size1
+2026-09-18 04:16:52 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:52 | INFO | Successfully loaded game class R11l from environment_files/r11l/495a7899/r11l.py
+2026-09-18 04:16:53 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:54 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:55 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:57 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:58 | INFO | Successfully fetched metadata for game r11l
+2026-09-18 04:16:59 | INFO | Successfully fetched metadata for game r11l
+=== r11l  levels=6  actions=[6]
+  click (17,47) colour6 size1: 66 cells
+  click (24,55) colour1 size1: 75 cells
+  click (23,54) colour1 size1: 76 cells
+  click (22,53) colour1 size1: 78 cells
+  click (21,52) colour1 size1: 80 cells
+  click (19,49) colour1 size1: 74 cells
+2026-09-18 04:17:00 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:00 | INFO | Successfully loaded game class Ka59 from environment_files/ka59/38d34dbb/ka59.py
+2026-09-18 04:17:01 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:01 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:03 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:04 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:05 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:05 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:06 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:07 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:08 | INFO | Successfully fetched metadata for game ka59
+2026-09-18 04:17:09 | INFO | Successfully fetched metadata for game ka59
+=== ka59  levels=7  actions=[1, 2, 3, 4, 6]
+  A1: move colour1 (+3,+0) size9 | move colour1 (+3,+0) size9 | move colour1 (+3,+0) size9
+  A2: move colour14 (+3,+0) size8 | move colour14 (+3,+0) size8 | move colour14 (+3,+0) size8
+  A3: move colour14 (+0,-3) size8 | move colour14 (+0,-3) size8 | move colour14 (+0,-3) size8
+  A4: move colour14 (+0,+3) size8 | move colour1 (+0,-3) size9 | move colour5 (+0,+15) size1
+  click (28,31) colour5 size1: 3 cells
+  click (19,31) colour0 size1: 1 cells
+  click (29,30) colour14 size8: 3 cells
+  click (20,30) colour14 size8: 1 cells
+  click (48,26) colour4 size16: 1 cells
+  click (15,32) colour4 size16: 1 cells
+2026-09-18 04:17:10 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:10 | INFO | Successfully loaded game class Cd82 from environment_files/cd82/fb555c5d/cd82.py
+2026-09-18 04:17:11 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:11 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:13 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:14 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:15 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:16 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:17 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:18 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:19 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:20 | INFO | Successfully fetched metadata for game cd82
+2026-09-18 04:17:21 | INFO | Successfully fetched metadata for game cd82
+=== cd82  levels=6  actions=[1, 2, 3, 4, 5, 6]
+  A1: 1 cells | no-op | 1 cells
+  A2: 1 cells | no-op | 1 cells
+  A3: 201 cells | no-op | 1 cells
+  A4: 201 cells | no-op | 1 cells
+  A5: 51 cells | no-op | 1 cells
+  click (25,32) colour2 size30: 1 cells
+  click (43,7) colour0 size5: 1 cells
+  click (43,4) colour15 size9: 1 cells
+  click (37,4) colour0 size9: 95 cells
+  click (45,2) colour4 size16: 1 cells
+  click (39,2) colour4 size16: 95 cells
+2026-09-18 04:17:22 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:22 | INFO | Successfully loaded game class Su15 from environment_files/su15/1944f8ab/su15.py
+2026-09-18 04:17:23 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:24 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:25 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:26 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:27 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:28 | INFO | Successfully fetched metadata for game su15
+2026-09-18 04:17:29 | INFO | Successfully fetched metadata for game su15
+=== su15  levels=9  actions=[6, 7]
+  A7: no-op | no-op | no-op
+  click (46,17) colour3 size1: 2 cells
+  click (44,19) colour3 size1: 2 cells
+  click (42,21) colour3 size1: 2 cells
+  click (40,23) colour3 size1: 2 cells
+  click (38,25) colour3 size1: 2 cells
+  click (36,27) colour3 size1: 2 cells
+2026-09-18 04:17:30 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:30 | INFO | Successfully loaded game class Ar25 from environment_files/ar25/0c556536/ar25.py
+2026-09-18 04:17:31 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:32 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:35 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:37 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:38 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:38 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:39 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:40 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:42 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:43 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:45 | INFO | Successfully fetched metadata for game ar25
+2026-09-18 04:17:47 | INFO | Successfully fetched metadata for game ar25
+=== ar25  levels=8  actions=[1, 2, 3, 4, 5, 6, 7]
+  A1: 109 cells | 109 cells | 109 cells
+  A2: 109 cells | 109 cells | 109 cells
+  A3: 109 cells | 109 cells | 109 cells
+  A4: 109 cells | 79 cells | 80 cells
+  A5: 1 cells | 1 cells | 1 cells
+  A7: no-op | no-op | no-op
+  click (25,22) colour0 size1: no-op
+  click (25,19) colour0 size1: no-op
+  click (25,16) colour0 size1: no-op
+  click (22,16) colour0 size1: no-op
+  click (19,16) colour0 size1: no-op
+  click (37,20) colour4 size45: no-op
+2026-09-18 04:17:48 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:48 | INFO | Successfully loaded game class M0r0 from environment_files/m0r0/492f87ba/m0r0.py
+2026-09-18 04:17:49 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:50 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:51 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:52 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:53 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:55 | INFO | Successfully fetched metadata for game m0r0
+2026-09-18 04:17:56 | INFO | Successfully fetched metadata for game m0r0
+=== m0r0  levels=6  actions=[1, 2, 3, 4, 5, 6]
+  A1: move colour10 (-5,+0) size50 | move colour10 (-5,+0) size25 | no-op
+  A2: move colour10 (+5,+0) size50 | 2 cells | no-op
+  A3: 100 cells | 102 cells | no-op
+  A4: 100 cells | 2 cells | no-op
+  A5: no-op | 2 cells | no-op
+  click (41,51) colour10 size25: no-op
+  click (21,51) colour10 size25: no-op
+2026-09-18 04:17:58 | INFO | Successfully fetched metadata for game tu93
+2026-09-18 04:17:58 | INFO | Successfully loaded game class Tu93 from environment_files/tu93/0768757b/tu93.py
+2026-09-18 04:18:00 | INFO | Successfully fetched metadata for game tu93
+2026-09-18 04:18:02 | INFO | Successfully fetched metadata for game tu93
+2026-09-18 04:18:05 | INFO | Successfully fetched metadata for game tu93
+2026-09-18 04:18:08 | INFO | Successfully fetched metadata for game tu93
+=== tu93  levels=9  actions=[1, 2, 3, 4]
+  A1: 1 cells | 2 cells | 1 cells
+  A2: 1 cells | 2 cells | 1 cells
+  A3: 1 cells | 2 cells | 1 cells
+  A4: move colour9 (+0,+6) size8 | 2 cells | 1 cells
+2026-09-18 04:18:09 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:09 | INFO | Successfully loaded game class S5i5 from environment_files/s5i5/18d95033/s5i5.py
+2026-09-18 04:18:11 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:15 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:18 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:19 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:21 | INFO | Successfully fetched metadata for game s5i5
+2026-09-18 04:18:22 | INFO | Successfully fetched metadata for game s5i5
+=== s5i5  levels=8  actions=[6]
+  click (53,10) colour13 size1: 1 cells
+  click (52,11) colour13 size1: 1 cells
+  click (52,9) colour13 size1: 1 cells
+  click (51,10) colour13 size1: 1 cells
+  click (31,10) colour13 size1: 1 cells
+  click (11,52) colour13 size1: 1 cells
+2026-09-18 04:18:23 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:23 | INFO | Successfully loaded game class Ft09 from environment_files/ft09/0d8bbf25/ft09.py
+2026-09-18 04:18:25 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:28 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:34 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:36 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:37 | INFO | Successfully fetched metadata for game ft09
+2026-09-18 04:18:39 | INFO | Successfully fetched metadata for game ft09
+=== ft09  levels=6  actions=[6]
+  click (51,12) colour0 size4: no-op
+  click (49,46) colour0 size4: no-op
+  click (49,14) colour0 size4: no-op
+  click (49,10) colour0 size4: no-op
+  click (47,12) colour0 size4: no-op
+  click (15,10) colour0 size4: no-op
+2026-09-18 04:18:41 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:41 | INFO | Successfully loaded game class Sb26 from environment_files/sb26/7fbdac44/sb26.py
+2026-09-18 04:18:43 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:46 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:47 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:50 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:52 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:54 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:55 | INFO | Successfully fetched metadata for game sb26
+2026-09-18 04:18:56 | INFO | Successfully fetched metadata for game sb26
+=== sb26  levels=8  actions=[5, 6, 7]
+  A5: 1 cells | 1 cells | 1 cells
+  A7: no-op | no-op | no-op
+  click (46,35) colour0 size5: no-op
+  click (46,24) colour0 size5: no-op
+  click (18,24) colour0 size5: no-op
+  click (17,35) colour0 size5: no-op
+  click (44,58) colour11 size16: 20 cells
+  click (36,58) colour9 size16: 20 cells
+2026-09-18 04:18:57 | INFO | Successfully fetched metadata for game ls20
+2026-09-18 04:18:57 | INFO | Successfully loaded game class Ls20 from environment_files/ls20/9607627b/ls20.py
+2026-09-18 04:18:59 | INFO | Successfully fetched metadata for game ls20
+2026-09-18 04:19:00 | INFO | Successfully fetched metadata for game ls20
+2026-09-18 04:19:01 | INFO | Successfully fetched metadata for game ls20
+2026-09-18 04:19:03 | INFO | Successfully fetched metadata for game ls20
+=== ls20  levels=7  actions=[1, 2, 3, 4]
+  A1: move colour12 (-5,+0) size10 | move colour12 (-5,+0) size10 | move colour12 (-5,+0) size10
+  A2: 2 cells | 2 cells | 2 cells
+  A3: move colour12 (+0,-5) size10 | move colour12 (+0,-5) size10 | move colour12 (+0,-5) size10
+  A4: move colour12 (+0,+5) size10 | move colour12 (+0,+5) size10 | move colour12 (+0,+5) size10
+2026-09-18 04:19:04 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:04 | INFO | Successfully loaded game class Lp85 from environment_files/lp85/305b61c3/lp85.py
+2026-09-18 04:19:06 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:10 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:16 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:18 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:25 | INFO | Successfully fetched metadata for game lp85
+2026-09-18 04:19:32 | INFO | Successfully fetched metadata for game lp85
+=== lp85  levels=8  actions=[6]
+  click (47,1) colour5 size4: no-op
+  click (42,1) colour5 size4: no-op
+  click (37,1) colour5 size4: no-op
+  click (32,1) colour5 size4: no-op
+  click (27,1) colour5 size4: no-op
+  click (22,1) colour5 size4: no-op
+2026-09-18 04:19:36 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:19:36 | INFO | Successfully loaded game class Sk48 from environment_files/sk48/d8078629/sk48.py
+2026-09-18 04:19:39 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:19:42 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:19:44 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:19:46 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:19:52 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:03 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:06 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:09 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:12 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:14 | INFO | Successfully fetched metadata for game sk48
+2026-09-18 04:20:21 | INFO | Successfully fetched metadata for game sk48
+=== sk48  levels=8  actions=[1, 2, 3, 4, 6, 7]
+  A1: move colour4 (+6,+0) size12 | move colour3 (+6,+0) size8 | move colour3 (+6,+0) size8
+  A2: no-op | no-op | no-op
+  A3: 12 cells | no-op | no-op
+  A4: 12 cells | 12 cells | 12 cells
+  A7: no-op | no-op | no-op
+  click (43,58) colour1 size1: no-op
+  click (38,59) colour1 size1: no-op
+  click (37,58) colour1 size1: no-op
+  click (32,59) colour1 size1: no-op
+  click (31,58) colour1 size1: no-op
+  click (26,59) colour1 size1: no-op
+2026-09-18 04:20:25 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:25 | INFO | Successfully loaded game class Vc33 from environment_files/vc33/5430563c/vc33.py
+2026-09-18 04:20:31 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:34 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:36 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:37 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:39 | INFO | Successfully fetched metadata for game vc33
+2026-09-18 04:20:41 | INFO | Successfully fetched metadata for game vc33
+=== vc33  levels=7  actions=[6]
+  click (48,48) colour4 size16: 1 cells
+  click (39,29) colour11 size8: 1 cells
+  click (51,46) colour11 size12: 1 cells
+  click (62,33) colour9 size16: 265 cells
+  click (62,25) colour9 size16: 265 cells
+  click (32,0) colour7 size64: 1 cells
+2026-09-18 04:20:44 | INFO | Successfully fetched metadata for game tr87
+2026-09-18 04:20:44 | INFO | Successfully loaded game class Tr87 from environment_files/tr87/cd924810/tr87.py
+2026-09-18 04:20:46 | INFO | Successfully fetched metadata for game tr87
+2026-09-18 04:20:47 | INFO | Successfully fetched metadata for game tr87
+2026-09-18 04:20:48 | INFO | Successfully fetched metadata for game tr87
+2026-09-18 04:20:50 | INFO | Successfully fetched metadata for game tr87
+=== tr87  levels=6  actions=[1, 2, 3, 4]
+  A1: 13 cells | 12 cells | 7 cells
+  A2: 15 cells | 9 cells | 10 cells
+  A3: move colour0 (+0,+28) size14 | move colour3 (+0,+7) size14 | move colour3 (+0,+7) size14
+  A4: move colour0 (+0,+7) size14 | move colour0 (+0,+7) size14 | move colour0 (+0,+7) size14
+2026-09-18 04:20:51 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:51 | INFO | Successfully loaded game class Lf52 from environment_files/lf52/271a04aa/lf52.py
+2026-09-18 04:20:53 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:53 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:55 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:56 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:57 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:58 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:20:59 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:21:00 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:21:01 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:21:03 | INFO | Successfully fetched metadata for game lf52
+2026-09-18 04:21:04 | INFO | Successfully fetched metadata for game lf52
+=== lf52  levels=10  actions=[1, 2, 3, 4, 6, 7]
+  A1: 1 cells | 1 cells | 1 cells
+  A2: 1 cells | 1 cells | 1 cells
+  A3: 1 cells | 1 cells | 1 cells
+  A4: 1 cells | 1 cells | 1 cells
+  A7: 1 cells | 1 cells | 1 cells
+  click (42,39) colour14 size12: 1 cells
+  click (42,27) colour14 size12: 1 cells
+  click (36,21) colour14 size12: 1 cells
+  click (24,21) colour14 size12: 29 cells
+  click (18,21) colour14 size12: 29 cells
+  click (21,30) colour9 size23: 1 cells
+2026-09-18 04:21:05 | INFO | Successfully fetched metadata for game g50t
+2026-09-18 04:21:05 | INFO | Successfully loaded game class G50t from environment_files/g50t/5849a774/g50t.py
+2026-09-18 04:21:07 | INFO | Successfully fetched metadata for game g50t
+2026-09-18 04:21:08 | INFO | Successfully fetched metadata for game g50t
+2026-09-18 04:21:10 | INFO | Successfully fetched metadata for game g50t
+2026-09-18 04:21:11 | INFO | Successfully fetched metadata for game g50t
+2026-09-18 04:21:12 | INFO | Successfully fetched metadata for game g50t
+=== g50t  levels=7  actions=[1, 2, 3, 4, 5]
+  A1: no-op | 1 cells | no-op
+  A2: move colour9 (+6,+0) size24 | move colour5 (-6,+0) size24 | move colour9 (+6,+0) size24
+  A3: no-op | 1 cells | no-op
+  A4: move colour9 (+0,+6) size24 | move colour5 (+0,-6) size24 | move colour9 (+0,+6) size24
+  A5: no-op | 1 cells | no-op
+2026-09-18 04:21:13 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:13 | INFO | Successfully loaded game class Sc25 from environment_files/sc25/635fd71a/sc25.py
+2026-09-18 04:21:14 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:16 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:18 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:19 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:21 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:22 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:23 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:24 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:25 | INFO | Successfully fetched metadata for game sc25
+2026-09-18 04:21:27 | INFO | Successfully fetched metadata for game sc25
+=== sc25  levels=6  actions=[1, 2, 3, 4, 6]
+  A1: no-op | move colour10 (+2,-2) size4 | 4 cells
+  A2: no-op | move colour9 (+2,+2) size4 | 4 cells
+  A3: no-op | move colour2 (+0,+4) size16 | move colour2 (+0,+4) size16
+  A4: no-op | move colour9 (+0,+2) size8 | 4 cells
+  click (19,54) colour15 size4: no-op
+  click (16,57) colour15 size4: no-op
+  click (16,51) colour15 size4: no-op
+  click (13,54) colour15 size4: no-op
+  click (40,20) colour9 size8: no-op
+  click (42,20) colour10 size8: no-op
+2026-09-18 04:21:29 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:29 | INFO | Successfully loaded game class Sp80 from environment_files/sp80/589a99af/sp80.py
+2026-09-18 04:21:33 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:35 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:36 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:38 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:41 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:42 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:44 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:45 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:46 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:48 | INFO | Successfully fetched metadata for game sp80
+2026-09-18 04:21:50 | INFO | Successfully fetched metadata for game sp80
+=== sp80  levels=6  actions=[1, 2, 3, 4, 5, 6]
+  A1: move colour9 (-4,+0) size80 | 2 cells | 2 cells
+  A2: move colour9 (+4,+0) size80 | move colour9 (+4,+0) size80 | move colour9 (+4,+0) size80
+  A3: move colour9 (+0,-20) size16 | move colour9 (+0,-20) size16 | move colour9 (+0,-20) size16
+  A4: move colour9 (+0,+20) size16 | move colour9 (+0,+20) size16 | move colour9 (+0,+20) size16
+  A5: 2 cells | 2 cells | 2 cells
+  click (37,3) colour4 size12: 2 cells
+  click (38,5) colour6 size16: 2 cells
+  click (32,0) colour14 size64: 2 cells
+  click (22,17) colour9 size80: 2 cells
+  click (46,57) colour11 size80: 2 cells
+  click (22,57) colour11 size80: 2 cells
+2026-09-18 04:21:53 | INFO | Successfully fetched metadata for game wa30
+2026-09-18 04:21:53 | INFO | Successfully loaded game class Wa30 from environment_files/wa30/ee6fef47/wa30.py
+2026-09-18 04:21:54 | INFO | Successfully fetched metadata for game wa30
+2026-09-18 04:21:56 | INFO | Successfully fetched metadata for game wa30
+2026-09-18 04:21:57 | INFO | Successfully fetched metadata for game wa30
+2026-09-18 04:21:57 | INFO | Successfully fetched metadata for game wa30
+2026-09-18 04:21:58 | INFO | Successfully fetched metadata for game wa30
+=== wa30  levels=9  actions=[1, 2, 3, 4, 5]
+  A1: move colour0 (-4,+0) size4 | move colour0 (-4,+0) size4 | no-op
+  A2: move colour0 (+7,+0) size4 | move colour14 (+4,+0) size12 | move colour14 (+4,+0) size12
+  A3: 32 cells | move colour0 (+0,-4) size4 | move colour0 (+0,-4) size4
+  A4: 32 cells | move colour14 (+0,+4) size12 | move colour14 (+0,+4) size12
+  A5: no-op | 1 cells | no-op
+2026-09-18 04:21:59 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:21:59 | INFO | Successfully loaded game class Cn04 from environment_files/cn04/2fe56bfb/cn04.py
+2026-09-18 04:22:00 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:01 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:02 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:03 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:04 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:05 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:06 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:07 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:08 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:09 | INFO | Successfully fetched metadata for game cn04
+2026-09-18 04:22:11 | INFO | Successfully fetched metadata for game cn04
+=== cn04  levels=6  actions=[1, 2, 3, 4, 5, 6]
+  A1: move colour8 (-3,+0) size18 | move colour8 (-3,+0) size18 | move colour8 (-3,+0) size18
+  A2: move colour8 (+3,+0) size18 | move colour8 (+3,+0) size18 | move colour8 (+3,+0) size18
+  A3: move colour8 (+0,-3) size18 | move colour8 (+0,-3) size18 | move colour8 (+0,-3) size18
+  A4: move colour8 (+0,+3) size18 | move colour8 (+0,+3) size18 | move colour8 (+0,+3) size18
+  A5: 207 cells | 199 cells | 207 cells
+  click (39,42) colour8 size9: 279 cells
+  click (39,36) colour8 size9: 279 cells
+  click (21,27) colour8 size9: 135 cells
+  click (15,27) colour8 size9: 135 cells
+  click (32,0) colour4 size32: no-op
+  click (23,12) colour0 size135: 135 cells
+2026-09-18 04:22:13 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:13 | INFO | Successfully loaded game class Bp35 from environment_files/bp35/0a0ad940/bp35.py
+2026-09-18 04:22:14 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:15 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:16 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:17 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:18 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:19 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:19 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:20 | INFO | Successfully fetched metadata for game bp35
+2026-09-18 04:22:21 | INFO | Successfully fetched metadata for game bp35
+=== bp35  levels=9  actions=[3, 4, 6, 7]
+  A3: move colour10 (+0,+6) size23 | 1 cells | 1 cells
+  A4: move colour9 (+0,+6) size6 | move colour9 (+0,+6) size6 | move colour9 (+0,+6) size6
+  A7: 1 cells | 1 cells | 1 cells
+  click (22,39) colour11 size2: 1 cells
+  click (20,38) colour9 size6: 1 cells
+  click (62,61) colour3 size1: 1 cells
+  click (62,55) colour3 size1: 1 cells
+  click (62,49) colour3 size1: 1 cells
+  click (62,43) colour3 size1: 1 cells
+
+wrote probe_results.json

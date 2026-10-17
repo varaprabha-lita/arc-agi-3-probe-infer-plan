@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+vendor/
+environment_files/
+recordings/
+agent_debug.log
+scorecard.json

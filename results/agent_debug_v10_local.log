@@ -1,0 +1,712 @@
+dc22 L0 t4: probe results {1: ((-2, 0), 4, [14]), 2: None, 3: None, 4: None}
+dc22 L0 t4: model cell=2 avatar=[14] size=4 floor=2 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(38, 10)
+dc22 L0 t4: avatar lost (last=(38, 10)); re-probing with 3
+dc22 L0 t5: re-identification found no mover; continuing hypothesis ladder
+dc22 L0 t5: avatar lost (last=(38, 10)); re-probing with 4
+dc22 L0 t6: re-identification found no mover; continuing hypothesis ladder
+dc22 L0 t6: FALLBACK: avatar not found (expected=None, last=(38, 10), nav_actions=2)
+re86 L0 t4: probe results {1: ((-3, 0), 13, [0, 9]), 2: ((3, 0), 13, [0, 9]), 3: ((0, -3), 13, [0, 9]), 4: ((0, 3), 13, [0, 9])}
+re86 L0 t4: model cell=3 avatar=[0, 9] size=13 floor=5 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(32, 36)
+re86 L0 t4: overlay plan: shift (-7,4) covers 4/4 dots of colour 9
+re86 L0 t4: dot plan: marker to dot, 11 steps, goal (5, 16)
+re86 L0 t4: plan to (5, 16) colour=4 len=11 from (12, 12)
+re86 L0 t15: colour 4 is passable
+re86 L0 t17: control is now object colours=[0, 11] size=11
+re86 L0 t17: re-identified avatar at (19, 21)
+re86 L0 t17: overlay plan: shift (-7,-2) covers 4/4 dots of colour 11
+re86 L0 t17: dot plan: marker to dot, 9 steps, goal (1, 5)
+re86 L0 t17: plan to (1, 5) colour=4 len=9 from (8, 7)
+re86 L0 t24: blocked: expected (-2, 21) got (0, 21); wall (1, 7) colour 5 (x0)
+re86 L0 t24: overlay plan: shift (0,-2) covers 3/3 dots of colour 11
+re86 L0 t24: dot plan: marker to dot, 2 steps, goal (1, 5)
+re86 L0 t24: plan to (1, 5) colour=4 len=2 from (1, 7)
+re86 L1 t25: avatar lost (last=None); re-probing with 4
+re86 L1 t26: control is now object colours=[0, 12] size=1
+re86 L1 t26: re-identified avatar at (7, 19)
+re86 L1 t26: overlay plan: shift (10,-4) covers 3/3 dots of colour 12
+re86 L1 t26: dot plan: marker to dot, 14 steps, goal (12, 2)
+re86 L1 t26: plan to (12, 2) colour=5 len=14 from (2, 6)
+re86 L1 t42: control is now object colours=[0, 13] size=1
+re86 L1 t42: re-identified avatar at (24, 39)
+re86 L1 t42: overlay plan: shift (-7,-6) covers 3/3 dots of colour 13
+re86 L1 t42: dot plan: marker to dot, 13 steps, goal (1, 7)
+re86 L1 t42: plan to (1, 7) colour=4 len=13 from (8, 13)
+re86 L1 t57: control is now object colours=[0, 9] size=13
+re86 L1 t57: re-identified avatar at (29, 51)
+re86 L1 t57: overlay plan: shift (2,-8) covers 4/4 dots of colour 9
+re86 L1 t57: dot plan: marker to dot, 10 steps, goal (13, 9)
+re86 L1 t57: plan to (13, 9) colour=5 len=10 from (11, 17)
+re86 L2 t66: avatar lost (last=None); re-probing with 3
+re86 L2 t67: re-identification found no mover; continuing hypothesis ladder
+re86 L2 t67: avatar lost (last=None); re-probing with 2
+re86 L2 t68: control is now object colours=[0, 8] size=25
+re86 L2 t68: re-identified avatar at (47, 6)
+re86 L2 t68: overlay plan: shift (-6,4) covers 4/8 dots of colour 8
+re86 L2 t68: dot plan: marker to dot, 10 steps, goal (10, 9)
+re86 L2 t68: plan to (10, 9) colour=5 len=10 from (16, 5)
+re86 L2 t80: control moved to another object of the same colours
+re86 L2 t80: control is now object colours=[0, 8] size=1
+re86 L2 t80: re-identified avatar at (37, 10)
+re86 L2 t80: overlay plan: shift (0,4) covers 22/55 dots of colour 8
+re86 L2 t80: dot plan: marker to dot, 4 steps, goal (12, 7)
+re86 L2 t80: plan to (12, 7) colour=5 len=4 from (12, 3)
+re86 L2 t86: control is now object colours=[0] size=1
+re86 L2 t86: re-identified avatar at (51, 45)
+re86 L2 t86: overlay: shape too small (1 px of colour 0)
+re86 L2 t86: plan to (10, 16) colour=4 len=10 from (17, 15)
+re86 L2 t94: FALLBACK: avatar not found (expected=(30, 42), last=(33, 42), nav_actions=28)
+ka59 L0 t4: probe results {1: None, 2: ((3, 0), 8, [0, 14]), 3: None, 4: None}
+ka59 L0 t4: model cell=3 avatar=[0, 14] size=8 floor=1 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(30, 18)
+ka59 L0 t4: avatar lost (last=(30, 18)); re-probing with 1
+ka59 L0 t5: re-identification found no mover; continuing hypothesis ladder
+ka59 L0 t5: select: clicking block at (29,30)
+ka59 L0 t7: re-identification found no mover; continuing hypothesis ladder
+ka59 L0 t7: select: clicking block at (20,27)
+ka59 L0 t9: re-identification found no mover; continuing hypothesis ladder
+ka59 L0 t9: FALLBACK: avatar not found (expected=None, last=(27, 18), nav_actions=5)
+cd82 L0 t4: probe results {1: None, 2: None, 3: None, 4: None}
+cd82 L0 t4: FALLBACK: no key produced a translation
+ar25 L0 t4: probe results {1: ((-3, 0), 45, [0, 4, 5]), 2: ((3, 0), 45, [0, 4, 5]), 3: ((0, -3), 40, [0, 5]), 4: ((0, 3), 40, [0, 5])}
+ar25 L0 t4: model cell=3 avatar=[0, 5] size=40 floor=9 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(15, 18)
+ar25 L0 t4: plan to (6, 12) colour=4 len=5 from (6, 7)
+ar25 L0 t7: colour 10 is passable
+ar25 L0 t11: control is now object colours=[5] size=40
+ar25 L0 t11: re-identified avatar at (15, 30)
+ar25 L0 t11: plan to (6, 8) colour=4 len=3 from (6, 11)
+ar25 L0 t13: colour 4 is passable
+ar25 L0 t16: re-identified avatar at (15, 24)
+ar25 L0 t16: plan to (5, 11) colour=4 len=3 from (6, 9)
+ar25 L0 t19: colour 0 is a pushable box
+ar25 L0 t21: re-identified avatar at (12, 33)
+ar25 L0 t21: plan to (4, 9) colour=4 len=4 from (5, 12)
+ar25 L0 t27: control is now object colours=[0, 4, 5] size=40
+ar25 L0 t27: re-identified avatar at (6, 24)
+ar25 L0 t27: plan to (2, 11) colour=4 len=3 from (3, 9)
+ar25 L0 t32: control is now object colours=[5] size=40
+ar25 L0 t32: re-identified avatar at (3, 27)
+ar25 L0 t32: plan to (15, 17) colour=11 len=20 from (2, 10)
+ar25 L0 t52: colour 11 is passable
+ar25 L0 t54: control is now object colours=[4, 11] size=45
+ar25 L0 t54: re-identified avatar at (42, 3)
+ar25 L0 t54: plan to (15, 19) colour=11 len=17 from (15, 2)
+ar25 L0 t55: blocked: expected (42, 6) got (42, 0); wall (15, 3) colour 9 (x0)
+ar25 L0 t55: hypothesis reach exhausted -> select
+ar25 L0 t55: select: clicking block at (52,50)
+ar25 L0 t57: control is now object colours=[0, 4, 5] size=96
+ar25 L0 t57: re-identified avatar at (0, 54)
+ar25 L0 t57: plan to (13, 2) colour=4 len=21 from (9, 19)
+ar25 L0 t58: avatar lost (last=(0, 54)); re-probing with 1
+ar25 L0 t59: control is now object colours=[4, 5] size=58
+ar25 L0 t59: re-identified avatar at (0, 63)
+ar25 L0 t59: plan to (15, 19) colour=11 len=8 from (9, 21)
+ar25 L0 t60: blocked: expected (0, 60) got (0, 63); wall (9, 20) colour 9 (x0)
+ar25 L0 t60: hypothesis reach exhausted -> select
+ar25 L0 t60: select: clicking block at (56,36)
+ar25 L0 t62: control is now object colours=[0, 5] size=60
+ar25 L0 t62: re-identified avatar at (0, 63)
+ar25 L0 t62: hypothesis reach exhausted -> select
+ar25 L0 t62: select: clicking block at (59,36)
+ar25 L0 t64: control is now object colours=[4, 5] size=61
+ar25 L0 t64: re-identified avatar at (0, 63)
+ar25 L0 t64: plan to (15, 18) colour=11 len=8 from (10, 21)
+ar25 L0 t65: blocked: expected (0, 60) got (0, 63); wall (10, 20) colour 9 (x0)
+ar25 L0 t65: hypothesis reach exhausted -> select
+ar25 L0 t65: select: clicking block at (56,39)
+ar25 L0 t67: control is now object colours=[4, 11] size=45
+ar25 L0 t67: re-identified avatar at (39, 3)
+ar25 L0 t67: plan to (15, 19) colour=11 len=18 from (14, 2)
+ar25 L0 t67: avatar lost (last=(39, 3)); re-probing with 3
+ar25 L0 t68: control is now object colours=[0, 5] size=40
+ar25 L0 t68: re-identified avatar at (15, 15)
+ar25 L0 t68: overlay plan: shift (-5,14) covers 1/1 dots of colour 5
+ar25 L0 t68: dot plan: marker to dot, 19 steps, goal (1, 20)
+ar25 L0 t68: plan to (1, 20) colour=9 len=19 from (6, 6)
+ar25 L0 t86: no dots of our colour left -> switch
+ar25 L0 t86: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t88: re-identification found no mover; continuing hypothesis ladder
+ar25 L0 t88: select: clicking block at (31,63)
+ar25 L0 t90: control is now object colours=[0, 4, 5] size=61
+ar25 L0 t90: re-identified avatar at (0, 54)
+ar25 L0 t90: no dots of our colour left -> switch
+ar25 L0 t90: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t92: control is now object colours=[0, 5] size=40
+ar25 L0 t92: re-identified avatar at (3, 51)
+ar25 L0 t92: no dots of our colour left -> switch
+ar25 L0 t92: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t94: control is now object colours=[0, 4, 5] size=45
+ar25 L0 t94: re-identified avatar at (6, 3)
+ar25 L0 t94: no dots of our colour left -> switch
+ar25 L0 t94: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t96: control is now object colours=[0, 5] size=40
+ar25 L0 t96: re-identified avatar at (6, 48)
+ar25 L0 t96: no dots of our colour left -> switch
+ar25 L0 t96: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t98: re-identified avatar at (6, 45)
+ar25 L0 t98: no dots of our colour left -> switch
+ar25 L0 t98: switch: pressing ACTION5 to change the controlled object
+ar25 L0 t100: control is now object colours=[0, 4, 5] size=45
+ar25 L0 t100: re-identified avatar at (9, 9)
+ar25 L0 t100: plan to (15, 17) colour=11 len=24 from (4, 4)
+ar25 L0 t101: blocked: expected (9, 12) got (9, 6); wall (4, 5) colour 9 (x0)
+ar25 L0 t101: plan to (15, 17) colour=11 len=25 from (4, 3)
+ar25 L0 t102: blocked: expected (9, 9) got (9, 3); wall (4, 4) colour 9 (x0)
+ar25 L0 t102: plan to (15, 17) colour=11 len=26 from (4, 2)
+ar25 L0 t103: blocked: expected (9, 6) got (9, 0); wall (4, 3) colour 9 (x0)
+ar25 L0 t103: plan to (15, 17) colour=11 len=27 from (4, 1)
+ar25 L0 t104: blocked: expected (9, 3) got (9, 0); wall (4, 2) colour 9 (x0)
+ar25 L0 t104: plan to (15, 17) colour=11 len=27 from (4, 1)
+ar25 L0 t106: blocked: expected (12, 3) got (12, 0); wall (5, 2) colour 9 (x0)
+ar25 L0 t106: plan to (15, 17) colour=11 len=26 from (5, 1)
+ar25 L0 t108: blocked: expected (15, 3) got (15, 0); wall (6, 2) colour 9 (x0)
+ar25 L0 t108: plan to (15, 17) colour=11 len=25 from (6, 1)
+ar25 L0 t110: blocked: expected (18, 3) got (18, 0); wall (7, 2) colour 9 (x0)
+ar25 L0 t110: plan to (15, 17) colour=11 len=24 from (7, 1)
+ar25 L0 t112: blocked: expected (21, 3) got (21, 0); wall (8, 2) colour 9 (x0)
+ar25 L0 t112: plan to (15, 17) colour=11 len=23 from (8, 1)
+ar25 L0 t114: blocked: expected (24, 3) got (24, 0); wall (9, 2) colour 9 (x0)
+ar25 L0 t114: plan to (15, 17) colour=11 len=22 from (9, 1)
+ar25 L0 t116: blocked: expected (27, 3) got (27, 0); wall (10, 2) colour 9 (x0)
+ar25 L0 t116: plan to (15, 17) colour=11 len=21 from (10, 1)
+ar25 L0 t118: blocked: expected (30, 3) got (30, 0); wall (11, 2) colour 9 (x0)
+ar25 L0 t118: plan to (15, 17) colour=11 len=20 from (11, 1)
+ar25 L0 t120: blocked: expected (33, 3) got (33, 0); wall (12, 2) colour 9 (x0)
+ar25 L0 t120: plan to (15, 17) colour=11 len=19 from (12, 1)
+ar25 L0 t122: blocked: expected (36, 3) got (36, 0); wall (13, 2) colour 9 (x0)
+ar25 L0 t122: plan to (15, 17) colour=11 len=18 from (13, 1)
+ar25 L0 t124: blocked: expected (39, 3) got (39, 0); wall (14, 2) colour 9 (x0)
+ar25 L0 t124: plan to (15, 17) colour=11 len=19 from (14, 1)
+ar25 L0 t126: blocked: expected (42, 3) got (42, 0); wall (15, 2) colour 9 (x0)
+ar25 L0 t126: plan to (15, 17) colour=11 len=18 from (15, 1)
+ar25 L0 t128: blocked: expected (45, 3) got (45, 0); wall (16, 2) colour 9 (x0)
+ar25 L0 t128: plan to (16, 17) colour=11 len=18 from (16, 1)
+ar25 L0 t130: blocked: expected (48, 3) got (48, 0); wall (17, 2) colour 9 (x0)
+ar25 L0 t130: plan to (17, 17) colour=11 len=18 from (17, 1)
+ar25 L0 t132: blocked: expected (51, 3) got (51, 0); wall (18, 2) colour 9 (x0)
+ar25 L0 t132: plan to (17, 17) colour=11 len=19 from (18, 1)
+ar25 L0 t134: blocked: expected (54, 3) got (54, 0); wall (19, 2) colour 9 (x0)
+ar25 L0 t134: plan to (17, 17) colour=11 len=20 from (19, 1)
+ar25 L0 t135: blocked: expected (57, 0) got (54, 0); wall (20, 1) colour 9 (x0)
+ar25 L0 t135: plan to (17, 17) colour=11 len=46 from (19, 1)
+ar25 L0 t149: FALLBACK: avatar not found (expected=None, last=(12, 0), nav_actions=147)
+m0r0 L0 t4: probe results {1: ((-5, 0), 25, [10]), 2: ((5, 0), 25, [10]), 3: None, 4: None}
+m0r0 L0 t4: model cell=5 avatar=[10] size=25 floor=5 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(49, 19)
+m0r0 L0 t4: plan to (8, 7) colour=12 len=5 from (10, 4)
+m0r0 L0 t7: blocked: expected (44, 29) got (44, 24); wall (9, 6) colour 12 (x1)
+m0r0 L0 t7: plan to (7, 7) colour=12 len=4 from (9, 5)
+m0r0 L0 t8: blocked: expected (39, 24) got (44, 24); wall (8, 5) colour 11 (x1)
+m0r0 L0 t8: plan to (7, 7) colour=12 len=6 from (9, 5)
+m0r0 L0 t11: blocked: expected (34, 19) got (39, 19); wall (7, 4) colour 11 (x2)
+m0r0 L0 t11: plan to (7, 7) colour=12 len=8 from (8, 4)
+m0r0 L0 t15: blocked: expected (49, 29) got (49, 24); wall (10, 6) colour 12 (x2)
+m0r0 L0 t15: plan to (8, 7) colour=12 len=28 from (10, 5)
+m0r0 L0 t43: blocked: expected (39, 34) got (44, 34); wall (8, 7) colour 12 (x3)
+m0r0 L0 t43: plan to (6, 4) colour=11 len=22 from (9, 7)
+m0r0 L0 t44: overlay: nothing of colours [10] in bbox (44, 34, 48, 38)
+m0r0 L0 t44: plan to (6, 4) colour=11 len=27 from (8, 7)
+m0r0 L1 t45: overlay: nothing of colours [10] in bbox (44, 34, 48, 38)
+m0r0 L1 t45: plan to (5, 5) colour=8 len=4 from (2, 4)
+m0r0 L1 t48: blocked: expected (20, 27) got (14, 26); wall (4, 5) colour 6 (x1)
+m0r0 L1 t48: plan to (5, 5) colour=8 len=4 from (3, 5)
+m0r0 L1 t50: blocked: expected (19, 21) got (14, 22); wall (4, 4) colour 6 (x2)
+m0r0 L1 t50: plan to (5, 5) colour=8 len=7 from (3, 4)
+m0r0 L1 t52: blocked: expected (14, 12) got (14, 14); wall (3, 2) colour 5 (x0)
+m0r0 L1 t52: plan to (5, 5) colour=8 len=10 from (3, 3)
+m0r0 L1 t55: blocked: expected (9, 4) got (10, 6); wall (2, 1) colour 5 (x0)
+m0r0 L1 t55: plan to (5, 5) colour=8 len=7 from (2, 1)
+m0r0 L1 t57: blocked: expected (20, 6) got (18, 6); wall (4, 1) colour 5 (x0)
+m0r0 L1 t57: hypothesis reach exhausted -> select
+m0r0 L1 t57: select: clicking block at (56,19)
+m0r0 L1 t59: re-identification found no mover; continuing hypothesis ladder
+m0r0 L1 t59: select: clicking block at (8,19)
+m0r0 L1 t61: re-identification found no mover; continuing hypothesis ladder
+m0r0 L1 t61: hypothesis select exhausted -> switch
+m0r0 L1 t61: switch: pressing ACTION5 to change the controlled object
+m0r0 L1 t63: control is now object colours=[10] size=16
+m0r0 L1 t63: re-identified avatar at (22, 6)
+m0r0 L1 t63: plan to (5, 5) colour=8 len=5 from (4, 1)
+m0r0 L1 t66: blocked: expected (27, 16) got (26, 14); wall (5, 3) colour 5 (x0)
+m0r0 L1 t66: plan to (5, 5) colour=8 len=2 from (5, 3)
+m0r0 L1 t67: plan to (7, 5) colour=8 len=4 from (5, 3)
+m0r0 L1 t70: avatar lost (last=(31, 23)); re-probing with 4
+m0r0 L1 t71: re-identification found no mover; continuing hypothesis ladder
+m0r0 L1 t71: FALLBACK: avatar not found (expected=None, last=(31, 23), nav_actions=26)
+tu93 L0 t4: probe results {1: None, 2: None, 3: None, 4: ((0, 6), 8, [4, 9])}
+tu93 L0 t4: model cell=6 avatar=[4, 9] size=8 floor=0 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(15, 21)
+tu93 L0 t4: plan to (7, 7) colour=14 len=9 from (2, 3)
+tu93 L0 t5: blocked: expected (15, 27) got (15, 21); wall (2, 4) colour 0 (x0)
+tu93 L0 t5: plan to (7, 7) colour=14 len=9 from (2, 3)
+tu93 L0 t7: blocked: expected (21, 27) got (21, 21); wall (3, 4) colour 0 (x0)
+tu93 L0 t7: plan to (7, 7) colour=14 len=8 from (3, 3)
+tu93 L0 t10: blocked: expected (27, 33) got (27, 27); wall (4, 5) colour 0 (x0)
+tu93 L0 t10: plan to (7, 7) colour=14 len=6 from (4, 4)
+tu93 L0 t11: blocked: expected (33, 27) got (27, 27); wall (5, 4) colour 0 (x0)
+tu93 L0 t11: plan to (7, 7) colour=14 len=8 from (4, 4)
+tu93 L0 t13: blocked: expected (33, 21) got (27, 21); wall (5, 3) colour 0 (x0)
+tu93 L0 t13: plan to (7, 7) colour=14 len=9 from (4, 3)
+tu93 L0 t14: blocked: expected (27, 15) got (27, 21); wall (4, 2) colour 5 (x1)
+tu93 L0 t14: plan to (7, 7) colour=14 len=13 from (4, 3)
+tu93 L0 t17: blocked: expected (9, 21) got (15, 21); wall (1, 3) colour 5 (x2)
+tu93 L0 t17: hypothesis reach exhausted -> select
+tu93 L0 t17: hypothesis select exhausted -> switch
+tu93 L0 t17: hypothesis switch exhausted -> explore
+tu93 L0 t17: FALLBACK: no reachable goal (cands=1, walls=7, tried=0, here=(2, 3), bg=0)
+ls20 L0 t4: probe results {1: ((-5, 0), 15, [9, 12]), 2: ((5, 0), 15, [9, 12]), 3: ((0, -5), 15, [9, 12]), 4: ((0, 5), 15, [9, 12])}
+ls20 L0 t4: model cell=5 avatar=[9, 12] size=15 floor=3 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(47, 34)
+ls20 L0 t4: overlay plan: shift (-7,0) covers 1/1 dots of colour 9
+ls20 L0 t4: dot plan: marker to dot, 7 steps, goal (2, 7)
+ls20 L0 t4: plan to (2, 7) colour=9 len=7 from (9, 7)
+ls20 L0 t11: blocked: expected (12, 34) got (15, 34); wall (2, 7) colour None (x0)
+ls20 L0 t11: plan to (6, 4) colour=0 len=6 from (3, 7)
+ls20 L0 t17: colour 0 is passable
+ls20 L0 t17: overlay plan: shift (-4,3) covers 1/1 dots of colour 9
+ls20 L0 t17: dot plan: marker to dot, 7 steps, goal (2, 7)
+ls20 L0 t17: plan to (2, 7) colour=9 len=7 from (6, 4)
+ls20 L0 t19: blocked: expected (20, 19) got (25, 19); wall (4, 4) colour 4 (x1)
+ls20 L0 t19: overlay plan: shift (-3,3) covers 1/1 dots of colour 9
+ls20 L0 t19: dot plan: marker to dot, 6 steps, goal (2, 7)
+ls20 L0 t19: plan to (2, 7) colour=9 len=6 from (5, 4)
+ls20 L0 t20: blocked: expected (20, 19) got (25, 19); wall (4, 4) colour 4 (x2)
+ls20 L0 t20: overlay: shift (-3,3) already tried
+ls20 L0 t20: plan to (2, 7) colour=9 len=6 from (5, 4)
+ls20 L1 t25: overlay: nothing of colours [9, 12] in bbox (15, 34, 16, 38)
+ls20 L1 t25: hypothesis reach exhausted -> select
+ls20 L1 t25: hypothesis select exhausted -> switch
+ls20 L1 t25: hypothesis switch exhausted -> explore
+ls20 L1 t25: FALLBACK: no reachable goal (cands=4, walls=0, tried=0, here=(11, 0), bg=3)
+sk48 L0 t4: probe results {1: ((-6, 0), 18, [0, 1, 6]), 2: ((6, 0), 18, [0, 1, 6]), 3: None, 4: None}
+sk48 L0 t4: model cell=6 avatar=[0, 1, 6] size=18 floor=5 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(36, 11)
+sk48 L0 t4: plan to (6, 3) colour=1 len=1 from (6, 2)
+sk48 L0 t5: blocked: expected (36, 17) got (37, 12); wall (6, 3) colour None (x0)
+sk48 L0 t5: plan to (6, 4) colour=1 len=4 from (6, 2)
+sk48 L0 t6: blocked: expected (43, 12) got (37, 12); wall (7, 2) colour 5 (x0)
+sk48 L0 t6: plan to (6, 4) colour=1 len=2 from (6, 2)
+sk48 L0 t7: blocked: expected (37, 18) got (37, 12); wall (6, 3) colour None (x0)
+sk48 L0 t7: overlay: 7 dots of colour 1 but no lattice-aligned shift (shape 25 px)
+sk48 L0 t7: plan to (6, 4) colour=1 len=8 from (6, 2)
+sk48 L0 t8: blocked: expected (37, 6) got (36, 11); wall (6, 1) colour 5 (x0)
+sk48 L0 t8: plan to (6, 4) colour=1 len=4 from (6, 2)
+sk48 L0 t10: blocked: expected (30, 17) got (31, 12); wall (5, 3) colour None (x0)
+sk48 L0 t10: overlay: 7 dots of colour 1 but no lattice-aligned shift (shape 25 px)
+sk48 L0 t10: plan to (5, 4) colour=1 len=4 from (5, 2)
+sk48 L0 t12: blocked: expected (25, 18) got (25, 12); wall (4, 3) colour None (x0)
+sk48 L0 t12: overlay: 7 dots of colour 1 but no lattice-aligned shift (shape 33 px)
+sk48 L0 t12: plan to (4, 4) colour=1 len=4 from (4, 2)
+sk48 L0 t14: blocked: expected (19, 18) got (19, 12); wall (3, 3) colour None (x0)
+sk48 L0 t14: overlay plan: shift (0,1) covers 1/8 dots of colour 1
+sk48 L0 t14: dot plan: marker to dot, 1 steps, goal (3, 3)
+sk48 L0 t14: plan to (3, 3) colour=1 len=1 from (3, 2)
+sk48 L0 t15: blocked: expected (19, 18) got (19, 12); wall (3, 3) colour None (x0)
+sk48 L0 t15: overlay: shift (0,1) already tried
+sk48 L0 t15: plan to (3, 4) colour=1 len=6 from (3, 2)
+sk48 L0 t17: blocked: expected (7, 12) got (12, 11); wall (1, 2) colour 5 (x0)
+sk48 L0 t17: overlay: shift (0,1) already tried
+sk48 L0 t17: plan to (2, 3) colour=1 len=1 from (2, 2)
+sk48 L0 t18: blocked: expected (12, 17) got (13, 12); wall (2, 3) colour None (x0)
+sk48 L0 t18: overlay: shift (0,1) already tried
+sk48 L0 t18: plan to (2, 4) colour=1 len=2 from (2, 2)
+sk48 L0 t19: blocked: expected (13, 18) got (13, 12); wall (2, 3) colour None (x0)
+sk48 L0 t19: overlay: shift (0,1) already tried
+sk48 L0 t19: plan to (2, 4) colour=1 len=8 from (2, 2)
+sk48 L0 t20: blocked: expected (13, 6) got (12, 11); wall (2, 1) colour 5 (x0)
+sk48 L0 t20: overlay: shift (0,1) already tried
+sk48 L0 t20: plan to (2, 4) colour=1 len=12 from (2, 2)
+sk48 L0 t22: blocked: expected (18, 5) got (18, 11); wall (3, 1) colour 5 (x0)
+sk48 L0 t22: plan to (3, 4) colour=1 len=14 from (3, 2)
+sk48 L0 t24: blocked: expected (24, 5) got (24, 11); wall (4, 1) colour 5 (x0)
+sk48 L0 t24: plan to (4, 4) colour=8 len=14 from (4, 2)
+sk48 L0 t26: blocked: expected (30, 5) got (30, 11); wall (5, 1) colour 5 (x0)
+sk48 L0 t26: hypothesis reach exhausted -> select
+sk48 L0 t26: select: clicking block at (15,31)
+sk48 L0 t28: re-identification found no mover; continuing hypothesis ladder
+sk48 L0 t28: select: clicking block at (11,35)
+sk48 L0 t30: re-identification found no mover; continuing hypothesis ladder
+sk48 L0 t30: select: clicking block at (20,61)
+sk48 L0 t32: re-identification found no mover; continuing hypothesis ladder
+sk48 L0 t32: select: clicking block at (24,57)
+sk48 L0 t34: control moved to another object of the same colours
+sk48 L0 t34: re-identified avatar at (36, 11)
+sk48 L0 t34: hypothesis reach exhausted -> select
+sk48 L0 t34: select: clicking block at (15,37)
+sk48 L0 t36: re-identification found no mover; continuing hypothesis ladder
+sk48 L0 t36: select: clicking block at (11,41)
+sk48 L0 t38: FALLBACK: re-identification failed
+tr87 L0 t4: probe results {1: None, 2: None, 3: ((0, -8), 3, [3]), 4: ((0, -8), 3, [3])}
+tr87 L0 t4: model cell=8 avatar=[3] size=3 floor=0 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, -1)} pos=(7, 19)
+tr87 L0 t4: plan to (5, 0) colour=3 len=7 from (0, 2)
+tr87 L0 t5: blocked: expected (7, 11) got (7, 19); wall (0, 1) colour 10 (x1)
+tr87 L0 t5: plan to (5, 0) colour=3 len=7 from (0, 2)
+tr87 L0 t6: colour 2 is passable
+tr87 L0 t6: plan to (5, 0) colour=3 len=5 from (2, 2)
+tr87 L0 t7: blocked: expected (16, 11) got (16, 19); wall (2, 1) colour 2 (x1)
+tr87 L0 t7: plan to (5, 0) colour=3 len=5 from (2, 2)
+tr87 L0 t9: blocked: expected (24, 11) got (16, 19); wall (3, 1) colour 10 (x2)
+tr87 L0 t9: plan to (5, 0) colour=3 len=5 from (2, 2)
+tr87 L0 t11: blocked: expected (32, 19) got (25, 19); wall (4, 2) colour None (x0)
+tr87 L0 t11: plan to (5, 0) colour=3 len=16 from (3, 2)
+tr87 L0 t12: plan to (5, 0) colour=3 len=17 from (2, 2)
+tr87 L0 t13: plan to (5, 0) colour=3 len=17 from (0, 2)
+tr87 L0 t14: plan to (5, 0) colour=3 len=15 from (2, 2)
+tr87 L0 t15: hypothesis reach exhausted -> select
+tr87 L0 t15: hypothesis select exhausted -> switch
+tr87 L0 t15: hypothesis switch exhausted -> explore
+tr87 L0 t15: FALLBACK: no reachable goal (cands=14, walls=9, tried=0, here=(3, 2), bg=0)
+lf52 L0 t4: probe results {1: None, 2: None, 3: None, 4: None}
+lf52 L0 t4: FALLBACK: no key produced a translation
+lf52 L1 t52: probe results {1: None, 2: None, 3: ((0, -6), 20, [5, 9, 11, 12]), 4: ((0, 6), 20, [5, 9, 11, 12])}
+lf52 L1 t52: model cell=6 avatar=[5, 9, 11, 12] size=20 floor=10 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(32, 30)
+lf52 L1 t52: plan to (5, 9) colour=5 len=4 from (5, 5)
+lf52 L1 t56: plan to (3, 9) colour=5 len=4 from (5, 9)
+lf52 L1 t58: blocked: expected (26, 48) got (32, 48); wall (4, 8) colour 10 (x0)
+lf52 L1 t58: plan to (3, 9) colour=5 len=3 from (5, 8)
+lf52 L1 t61: plan to (6, 2) colour=5 len=10 from (3, 9)
+lf52 L1 t62: blocked: expected (20, 48) got (20, 54); wall (3, 8) colour 10 (x0)
+lf52 L1 t62: plan to (6, 2) colour=5 len=10 from (3, 9)
+lf52 L1 t72: plan to (8, 2) colour=5 len=4 from (6, 2)
+lf52 L1 t73: blocked: expected (38, 6) got (38, 12); wall (6, 1) colour 10 (x0)
+lf52 L1 t73: plan to (8, 2) colour=5 len=4 from (6, 2)
+lf52 L1 t74: blocked: expected (38, 18) got (38, 16); wall (6, 3) colour 10 (x0)
+lf52 L1 t74: plan to (8, 2) colour=5 len=2 from (6, 2)
+lf52 L1 t76: blocked: expected (50, 16) got (51, 13); wall (8, 2) colour None (x0)
+lf52 L1 t76: plan to (4, 9) colour=5 len=11 from (8, 2)
+lf52 L1 t78: blocked: expected (45, 19) got (50, 18); wall (7, 3) colour 10 (x0)
+lf52 L1 t78: plan to (4, 9) colour=5 len=10 from (8, 3)
+lf52 L1 t80: blocked: expected (44, 24) got (50, 24); wall (7, 4) colour 10 (x0)
+lf52 L1 t80: plan to (7, 2) colour=5 len=3 from (8, 4)
+lf52 L1 t83: plan to (4, 9) colour=5 len=10 from (7, 2)
+lf52 L1 t93: plan to (2, 7) colour=14 len=4 from (4, 9)
+lf52 L1 t97: blocked: expected (14, 42) got (14, 48); wall (2, 7) colour 14 (x1)
+lf52 L1 t97: plan to (2, 5) colour=14 len=3 from (2, 8)
+lf52 L1 t98: blocked: expected (14, 42) got (14, 48); wall (2, 7) colour 14 (x2)
+lf52 L1 t98: plan to (2, 5) colour=14 len=7 from (2, 8)
+lf52 L1 t99: blocked: expected (8, 48) got (14, 48); wall (1, 8) colour 10 (x0)
+lf52 L1 t99: plan to (2, 5) colour=14 len=9 from (2, 8)
+lf52 L1 t101: blocked: expected (8, 54) got (14, 54); wall (1, 9) colour 10 (x0)
+lf52 L1 t101: plan to (2, 5) colour=14 len=10 from (2, 9)
+lf52 L1 t109: blocked: expected (26, 30) got (32, 30); wall (4, 5) colour None (x0)
+lf52 L1 t109: plan to (2, 5) colour=14 len=5 from (5, 5)
+lf52 L1 t111: blocked: expected (26, 24) got (32, 24); wall (4, 4) colour None (x0)
+lf52 L1 t111: plan to (2, 3) colour=14 len=4 from (5, 4)
+lf52 L1 t113: blocked: expected (26, 18) got (32, 18); wall (4, 3) colour None (x0)
+lf52 L1 t113: plan to (2, 3) colour=14 len=5 from (5, 3)
+lf52 L1 t115: blocked: expected (26, 12) got (32, 12); wall (4, 2) colour None (x0)
+lf52 L1 t115: plan to (2, 2) colour=14 len=7 from (5, 2)
+lf52 L1 t116: blocked: expected (32, 6) got (32, 12); wall (5, 1) colour 10 (x0)
+lf52 L1 t116: plan to (2, 2) colour=14 len=11 from (5, 2)
+lf52 L1 t119: blocked: expected (44, 6) got (44, 12); wall (7, 1) colour 10 (x0)
+lf52 L1 t119: plan to (2, 2) colour=14 len=11 from (7, 2)
+lf52 L1 t121: blocked: expected (50, 6) got (50, 12); wall (8, 1) colour 10 (x0)
+lf52 L1 t121: plan to (8, 7) colour=14 len=5 from (8, 2)
+lf52 L1 t126: blocked: expected (50, 42) got (51, 37); wall (8, 7) colour 14 (x3)
+lf52 L1 t126: plan to (8, 8) colour=1 len=8 from (8, 6)
+lf52 L1 t127: blocked: expected (45, 37) got (50, 36); wall (7, 6) colour 10 (x0)
+lf52 L1 t127: plan to (8, 8) colour=1 len=10 from (8, 6)
+lf52 L1 t129: blocked: expected (44, 30) got (50, 30); wall (7, 5) colour 10 (x0)
+lf52 L1 t129: plan to (7, 7) colour=1 len=11 from (8, 5)
+lf52 L1 t131: blocked: expected (56, 36) got (51, 37); wall (9, 6) colour None (x0)
+lf52 L1 t131: plan to (8, 8) colour=1 len=18 from (8, 6)
+lf52 L1 t145: blocked: expected (39, 49) got (36, 48); wall (6, 8) colour None (x0)
+lf52 L1 t145: plan to (8, 8) colour=1 len=4 from (6, 8)
+lf52 L1 t146: blocked: expected (36, 54) got (33, 55); wall (6, 9) colour 10 (x0)
+lf52 L1 t146: plan to (7, 8) colour=1 len=5 from (5, 9)
+lf52 L1 t149: blocked: expected (39, 43) got (36, 42); wall (6, 7) colour None (x0)
+lf52 L1 t149: plan to (3, 7) colour=1 len=3 from (6, 7)
+lf52 L1 t150: blocked: expected (30, 42) got (32, 42); wall (5, 7) colour None (x0)
+lf52 L1 t150: plan to (3, 7) colour=1 len=2 from (5, 7)
+lf52 L1 t151: blocked: expected (26, 42) got (32, 42); wall (4, 7) colour None (x0)
+lf52 L1 t151: plan to (3, 7) colour=1 len=4 from (5, 7)
+lf52 L1 t153: blocked: expected (26, 36) got (32, 36); wall (4, 6) colour None (x0)
+lf52 L1 t153: plan to (3, 6) colour=1 len=28 from (5, 6)
+lf52 L1 t161: blocked: expected (56, 12) got (54, 12); wall (9, 2) colour None (x0)
+lf52 L1 t161: plan to (3, 2) colour=1 len=10 from (9, 2)
+lf52 L1 t162: blocked: expected (54, 6) got (50, 12); wall (9, 1) colour 10 (x0)
+lf52 L1 t162: hypothesis reach exhausted -> select
+lf52 L1 t162: select: clicking block at (15,52)
+lf52 L1 t164: control is now object colours=[9, 11, 12] size=20
+lf52 L1 t164: re-identified avatar at (50, 18)
+lf52 L1 t164: plan to (6, 2) colour=5 len=3 from (8, 3)
+lf52 L1 t165: colour 5 is passable
+lf52 L1 t167: plan to (8, 2) colour=5 len=2 from (6, 2)
+lf52 L1 t169: hypothesis reach exhausted -> select
+lf52 L1 t169: select: clicking block at (17,57)
+lf52 L1 t171: re-identification found no mover; continuing hypothesis ladder
+lf52 L1 t171: select: clicking block at (17,50)
+lf52 L1 t173: re-identified avatar at (50, 18)
+lf52 L1 t173: hypothesis reach exhausted -> select
+lf52 L1 t173: select: clicking block at (21,52)
+lf52 L1 t175: re-identified avatar at (50, 12)
+lf52 L1 t175: hypothesis reach exhausted -> select
+lf52 L1 t175: select: clicking block at (55,57)
+lf52 L1 t177: re-identification found no mover; continuing hypothesis ladder
+lf52 L1 t177: select: clicking block at (49,12)
+lf52 L1 t179: control moved to another object of the same colours
+lf52 L1 t179: re-identified avatar at (50, 18)
+lf52 L1 t179: plan to (6, 2) colour=5 len=3 from (8, 3)
+lf52 L1 t182: plan to (8, 2) colour=5 len=2 from (6, 2)
+lf52 L1 t184: hypothesis reach exhausted -> select
+lf52 L1 t184: select: clicking block at (32,27)
+lf52 L1 t186: re-identification found no mover; continuing hypothesis ladder
+lf52 L1 t186: FALLBACK: avatar not found (expected=None, last=(18, 6), nav_actions=134)
+g50t L0 t4: probe results {1: None, 2: ((-7, 0), 1, [5]), 3: None, 4: None}
+g50t L0 t4: model cell=7 avatar=[5] size=1 floor=9 dirs={1: (-1, 0), 2: (-1, 0), 3: (0, -1), 4: (0, 1)} pos=(16, 16)
+g50t L0 t4: overlay: shape too small (1 px of colour 5)
+g50t L0 t4: plan to (2, 4) colour=5 len=2 from (2, 2)
+g50t L0 t5: blocked: expected (16, 23) got (16, 16); wall (2, 3) colour 0 (x1)
+g50t L0 t5: overlay: shape too small (1 px of colour 5)
+g50t L0 t5: plan to (2, 4) colour=5 len=4 from (2, 2)
+g50t L0 t8: blocked: expected (9, 30) got (10, 28); wall (1, 4) colour None (x0)
+g50t L0 t8: overlay: shape too small (1 px of colour 5)
+g50t L0 t8: plan to (1, 2) colour=5 len=2 from (1, 4)
+g50t L0 t10: blocked: expected (10, 14) got (10, 16); wall (1, 2) colour None (x0)
+g50t L0 t12: re-identification found no mover; continuing hypothesis ladder
+g50t L0 t12: hypothesis select exhausted -> switch
+g50t L0 t12: switch: pressing ACTION5 to change the controlled object
+g50t L0 t14: re-identified avatar at (16, 16)
+g50t L0 t14: overlay: shape too small (1 px of colour 5)
+g50t L0 t14: plan to (2, 4) colour=5 len=4 from (2, 2)
+g50t L0 t14: overlay: shape too small (1 px of colour 5)
+g50t L0 t14: plan to (2, 4) colour=5 len=8 from (2, 2)
+g50t L0 t16: blocked: expected (2, 16) got (10, 16); wall (0, 2) colour 0 (x2)
+g50t L0 t16: overlay: shape too small (1 px of colour 5)
+g50t L0 t16: hypothesis reach exhausted -> select
+g50t L0 t16: hypothesis select exhausted -> switch
+g50t L0 t16: switch: pressing ACTION5 to change the controlled object
+g50t L0 t18: re-identified avatar at (10, 22)
+g50t L0 t18: overlay: shape too small (1 px of colour 5)
+g50t L0 t18: hypothesis reach exhausted -> select
+g50t L0 t18: hypothesis select exhausted -> switch
+g50t L0 t18: switch: pressing ACTION5 to change the controlled object
+g50t L0 t20: re-identification found no mover; continuing hypothesis ladder
+g50t L0 t20: hypothesis select exhausted -> switch
+g50t L0 t20: switch: pressing ACTION5 to change the controlled object
+g50t L0 t22: control is now object colours=[9] size=24
+g50t L0 t22: re-identified avatar at (14, 14)
+g50t L0 t22: overlay plan: shift (5,4) covers 1/1 dots of colour 9
+g50t L0 t22: dot plan: marker to dot, 9 steps, goal (7, 6)
+g50t L0 t22: plan to (7, 6) colour=5 len=9 from (2, 2)
+g50t L0 t22: overlay: shift (5,4) already tried
+g50t L0 t22: hypothesis reach exhausted -> select
+g50t L0 t22: hypothesis select exhausted -> switch
+g50t L0 t22: switch: pressing ACTION5 to change the controlled object
+g50t L0 t24: re-identification found no mover; continuing hypothesis ladder
+g50t L0 t24: hypothesis select exhausted -> switch
+g50t L0 t24: switch: pressing ACTION5 to change the controlled object
+g50t L0 t26: control is now object colours=[5] size=1
+g50t L0 t26: re-identified avatar at (10, 22)
+g50t L0 t26: overlay: shape too small (1 px of colour 5)
+g50t L0 t26: hypothesis reach exhausted -> select
+g50t L0 t26: hypothesis select exhausted -> switch
+g50t L0 t26: hypothesis switch exhausted -> fire
+g50t L0 t30: hypothesis fire exhausted -> explore
+g50t L0 t30: FALLBACK: no reachable goal (cands=8, walls=4, tried=0, here=(1, 2), bg=9)
+sc25 L0 t4: probe results {1: None, 2: None, 3: ((0, 4), 16, [2]), 4: None}
+sc25 L0 t4: model cell=4 avatar=[2] size=16 floor=9 dirs={1: (-1, 0), 2: (1, 0), 3: (0, 1), 4: (0, 1)} pos=(19, 39)
+sc25 L0 t4: avatar lost (last=(19, 39)); re-probing with 1
+sc25 L0 t5: re-identification found no mover; continuing hypothesis ladder
+sc25 L0 t5: avatar lost (last=(19, 39)); re-probing with 4
+sc25 L0 t6: re-identification found no mover; continuing hypothesis ladder
+sc25 L0 t6: FALLBACK: avatar not found (expected=None, last=(19, 39), nav_actions=2)
+sp80 L0 t4: probe results {1: ((-4, 0), 80, [9]), 2: ((4, 0), 80, [9]), 3: None, 4: None}
+sp80 L0 t4: model cell=4 avatar=[9] size=80 floor=12 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(16, 12)
+sp80 L0 t4: plan to (1, 9) colour=6 len=7 from (4, 5)
+sp80 L0 t6: blocked: expected (8, 12) got (12, 12); wall (2, 5) colour 12 (x0)
+sp80 L0 t6: plan to (1, 9) colour=6 len=8 from (3, 5)
+sp80 L0 t12: blocked: expected (8, 24) got (12, 24); wall (2, 8) colour 12 (x0)
+sp80 L0 t12: plan to (1, 9) colour=6 len=3 from (3, 8)
+sp80 L0 t14: blocked: expected (8, 28) got (12, 28); wall (2, 9) colour 12 (x0)
+sp80 L0 t14: plan to (1, 9) colour=6 len=4 from (3, 9)
+sp80 L0 t16: blocked: expected (8, 32) got (12, 32); wall (2, 10) colour 12 (x0)
+sp80 L0 t16: plan to (1, 9) colour=6 len=5 from (3, 10)
+sp80 L0 t18: blocked: expected (8, 36) got (12, 36); wall (2, 11) colour 12 (x0)
+sp80 L0 t18: plan to (1, 9) colour=6 len=6 from (3, 11)
+sp80 L0 t20: blocked: expected (8, 40) got (12, 40); wall (2, 12) colour 12 (x0)
+sp80 L0 t20: plan to (1, 9) colour=6 len=7 from (3, 12)
+sp80 L0 t22: blocked: expected (8, 44) got (12, 44); wall (2, 13) colour 12 (x0)
+sp80 L0 t22: plan to (1, 9) colour=6 len=8 from (3, 13)
+sp80 L0 t23: blocked: expected (12, 48) got (12, 44); wall (3, 14) colour None (x0)
+sp80 L0 t23: plan to (1, 9) colour=6 len=12 from (3, 13)
+sp80 L0 t29: avatar lost (last=(12, 28)); re-probing with 1
+sp80 L0 t30: control moved to another object of the same colours
+sp80 L0 t30: re-identified avatar at (12, 12)
+sp80 L0 t30: plan to (1, 9) colour=6 len=6 from (3, 5)
+sp80 L0 t32: blocked: expected (8, 16) got (12, 16); wall (2, 6) colour 12 (x0)
+sp80 L0 t32: plan to (1, 9) colour=6 len=5 from (3, 6)
+sp80 L0 t34: blocked: expected (8, 20) got (12, 20); wall (2, 7) colour 12 (x0)
+sp80 L0 t34: plan to (1, 9) colour=6 len=12 from (3, 7)
+sp80 L0 t40: blocked: expected (8, 8) got (12, 8); wall (2, 4) colour 12 (x0)
+sp80 L0 t40: plan to (1, 9) colour=6 len=9 from (3, 4)
+sp80 L0 t42: blocked: expected (8, 4) got (12, 4); wall (2, 3) colour 12 (x0)
+sp80 L0 t42: plan to (1, 9) colour=6 len=10 from (3, 3)
+sp80 L0 t44: blocked: expected (8, 0) got (12, 0); wall (2, 2) colour 12 (x0)
+sp80 L0 t44: plan to (1, 9) colour=6 len=11 from (3, 2)
+sp80 L0 t45: blocked: expected (12, -4) got (12, 0); wall (3, 1) colour None (x0)
+sp80 L0 t45: plan to (1, 9) colour=6 len=15 from (3, 2)
+sp80 L0 t47: blocked: expected (16, -4) got (16, 0); wall (4, 1) colour None (x0)
+sp80 L0 t47: plan to (1, 9) colour=6 len=16 from (4, 2)
+sp80 L0 t49: blocked: expected (20, -4) got (20, 0); wall (5, 1) colour None (x0)
+sp80 L0 t49: plan to (1, 9) colour=6 len=17 from (5, 2)
+sp80 L0 t51: blocked: expected (24, -4) got (24, 0); wall (6, 1) colour None (x0)
+sp80 L0 t51: plan to (1, 9) colour=6 len=18 from (6, 2)
+sp80 L0 t53: blocked: expected (28, -4) got (28, 0); wall (7, 1) colour None (x0)
+sp80 L0 t53: plan to (1, 9) colour=6 len=19 from (7, 2)
+sp80 L0 t55: blocked: expected (32, -4) got (32, 0); wall (8, 1) colour None (x0)
+sp80 L0 t55: plan to (1, 9) colour=6 len=20 from (8, 2)
+sp80 L0 t57: blocked: expected (36, -4) got (36, 0); wall (9, 1) colour None (x0)
+sp80 L0 t57: plan to (1, 9) colour=6 len=21 from (9, 2)
+sp80 L0 t58: avatar lost (last=(40, 0)); re-probing with 2
+sp80 L0 t59: control moved to another object of the same colours
+sp80 L0 t59: re-identified avatar at (20, 12)
+sp80 L0 t59: plan to (1, 9) colour=6 len=20 from (5, 5)
+sp80 L0 t69: blocked: expected (16, 48) got (16, 44); wall (4, 14) colour None (x0)
+sp80 L0 t69: plan to (1, 9) colour=6 len=13 from (4, 13)
+sp80 L0 t71: blocked: expected (20, 48) got (20, 44); wall (5, 14) colour None (x0)
+sp80 L0 t71: plan to (1, 9) colour=6 len=14 from (5, 13)
+sp80 L0 t73: blocked: expected (24, 48) got (24, 44); wall (6, 14) colour None (x0)
+sp80 L0 t73: plan to (1, 9) colour=6 len=15 from (6, 13)
+sp80 L0 t75: blocked: expected (28, 48) got (28, 44); wall (7, 14) colour None (x0)
+sp80 L0 t75: plan to (1, 9) colour=6 len=16 from (7, 13)
+sp80 L0 t77: blocked: expected (32, 48) got (32, 44); wall (8, 14) colour None (x0)
+sp80 L0 t77: plan to (1, 9) colour=6 len=17 from (8, 13)
+sp80 L0 t79: blocked: expected (36, 48) got (36, 44); wall (9, 14) colour None (x0)
+sp80 L0 t79: plan to (1, 9) colour=6 len=18 from (9, 13)
+sp80 L0 t81: blocked: expected (40, 48) got (40, 44); wall (10, 14) colour None (x0)
+sp80 L0 t81: plan to (1, 9) colour=6 len=19 from (10, 13)
+sp80 L0 t83: blocked: expected (44, 48) got (44, 44); wall (11, 14) colour None (x0)
+sp80 L0 t83: plan to (1, 9) colour=6 len=20 from (11, 13)
+sp80 L0 t84: blocked: expected (48, 44) got (44, 44); wall (12, 13) colour 12 (x0)
+sp80 L0 t84: plan to (1, 9) colour=6 len=32 from (11, 13)
+sp80 L0 t87: avatar lost (last=(40, 36)); re-probing with 3
+sp80 L0 t88: re-identification found no mover; continuing hypothesis ladder
+sp80 L0 t88: FALLBACK: avatar not found (expected=None, last=(40, 36), nav_actions=87)
+sp80 L1 t302: overlay: nothing of colours [9] in bbox (40, 36, 43, 55)
+sp80 L1 t302: plan to (14, 10) colour=6 len=10 from (9, 5)
+sp80 L1 t311: blocked: expected (52, 32) got (48, 32); wall (13, 10) colour 12 (x0)
+sp80 L1 t311: plan to (15, 10) colour=4 len=5 from (12, 10)
+sp80 L1 t313: blocked: expected (52, 28) got (48, 28); wall (13, 9) colour 12 (x0)
+sp80 L1 t313: plan to (14, 10) colour=6 len=5 from (12, 9)
+sp80 L1 t315: blocked: expected (52, 24) got (48, 24); wall (13, 8) colour 12 (x0)
+sp80 L1 t315: plan to (14, 10) colour=6 len=8 from (12, 8)
+sp80 L1 t321: blocked: expected (52, 36) got (48, 36); wall (13, 11) colour 12 (x0)
+sp80 L1 t321: plan to (15, 10) colour=4 len=6 from (12, 11)
+sp80 L1 t323: blocked: expected (52, 40) got (48, 40); wall (13, 12) colour 12 (x0)
+sp80 L1 t323: plan to (15, 10) colour=4 len=7 from (12, 12)
+sp80 L1 t325: blocked: expected (52, 44) got (48, 44); wall (13, 13) colour 12 (x0)
+sp80 L1 t325: plan to (15, 10) colour=4 len=8 from (12, 13)
+sp80 L1 t326: blocked: expected (48, 48) got (48, 44); wall (12, 14) colour None (x0)
+sp80 L1 t326: plan to (15, 10) colour=4 len=14 from (12, 13)
+sp80 L1 t335: blocked: expected (52, 20) got (48, 20); wall (13, 7) colour 12 (x0)
+sp80 L1 t335: plan to (14, 10) colour=6 len=7 from (12, 7)
+sp80 L1 t337: blocked: expected (52, 16) got (48, 16); wall (13, 6) colour 12 (x0)
+sp80 L1 t337: plan to (14, 10) colour=6 len=8 from (12, 6)
+sp80 L1 t339: blocked: expected (52, 12) got (48, 12); wall (13, 5) colour 12 (x0)
+sp80 L1 t339: plan to (14, 10) colour=6 len=9 from (12, 5)
+sp80 L1 t341: blocked: expected (52, 8) got (48, 8); wall (13, 4) colour 12 (x0)
+sp80 L1 t341: plan to (14, 10) colour=6 len=10 from (12, 4)
+sp80 L1 t343: blocked: expected (52, 4) got (48, 4); wall (13, 3) colour 12 (x0)
+sp80 L1 t343: plan to (14, 10) colour=6 len=11 from (12, 3)
+sp80 L1 t345: blocked: expected (52, 0) got (48, 0); wall (13, 2) colour 12 (x0)
+sp80 L1 t345: plan to (14, 10) colour=6 len=12 from (12, 2)
+sp80 L1 t346: blocked: expected (48, -4) got (48, 0); wall (12, 1) colour None (x0)
+sp80 L1 t346: plan to (14, 10) colour=6 len=16 from (12, 2)
+sp80 L1 t346: avatar lost (last=(48, 0)); re-probing with 3
+sp80 L1 t347: re-identification found no mover; continuing hypothesis ladder
+sp80 L1 t347: avatar lost (last=(48, 0)); re-probing with 3
+sp80 L1 t348: re-identification found no mover; continuing hypothesis ladder
+sp80 L1 t348: FALLBACK: avatar not found (expected=None, last=(48, 0), nav_actions=47)
+wa30 L0 t4: probe results {1: ((-4, 0), 12, [0, 14]), 2: ((7, 0), 4, [0]), 3: None, 4: ((0, 7), 4, [0])}
+wa30 L0 t4: model cell=7 avatar=[0] size=4 floor=1 dirs={1: (-1, 0), 2: (1, 0), 3: (0, -1), 4: (0, 1)} pos=(48, 35)
+wa30 L0 t4: plan to (4, 5) colour=9 len=3 from (7, 5)
+wa30 L0 t5: blocked: expected (41, 35) got (44, 32); wall (6, 5) colour 1 (x0)
+wa30 L0 t5: plan to (4, 4) colour=9 len=2 from (6, 4)
+wa30 L0 t6: blocked: expected (37, 32) got (40, 32); wall (5, 4) colour 1 (x0)
+wa30 L0 t6: plan to (4, 2) colour=4 len=3 from (5, 4)
+wa30 L0 t7: blocked: expected (40, 25) got (40, 28); wall (5, 3) colour 1 (x0)
+wa30 L0 t7: plan to (4, 2) colour=4 len=5 from (5, 4)
+wa30 L0 t9: blocked: expected (47, 21) got (44, 24); wall (6, 3) colour 1 (x0)
+wa30 L0 t9: plan to (4, 2) colour=4 len=3 from (6, 3)
+wa30 L0 t10: blocked: expected (44, 17) got (44, 20); wall (6, 2) colour 1 (x0)
+wa30 L0 t10: plan to (4, 2) colour=4 len=2 from (6, 2)
+wa30 L0 t11: blocked: expected (37, 20) got (40, 20); wall (5, 2) colour 1 (x0)
+wa30 L0 t11: plan to (4, 4) colour=9 len=2 from (5, 3)
+wa30 L0 t12: blocked: expected (33, 20) got (36, 20); wall (4, 3) colour 1 (x0)
+wa30 L0 t12: hypothesis reach exhausted -> select
+wa30 L0 t12: hypothesis select exhausted -> switch
+wa30 L0 t12: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t14: control is now object colours=[0, 14] size=12
+wa30 L0 t14: re-identified avatar at (33, 20)
+wa30 L0 t14: plan to (4, 4) colour=9 len=1 from (4, 3)
+wa30 L0 t15: blocked: expected (33, 27) got (32, 24); wall (4, 4) colour 9 (x1)
+wa30 L0 t15: plan to (4, 5) colour=9 len=4 from (4, 3)
+wa30 L0 t16: blocked: expected (25, 24) got (29, 24); wall (3, 3) colour 1 (x0)
+wa30 L0 t16: plan to (4, 5) colour=9 len=2 from (4, 3)
+wa30 L0 t17: blocked: expected (29, 31) got (28, 28); wall (4, 4) colour 9 (x2)
+wa30 L0 t17: plan to (4, 2) colour=4 len=6 from (4, 4)
+wa30 L0 t18: blocked: expected (21, 28) got (25, 28); wall (3, 4) colour 1 (x0)
+wa30 L0 t18: plan to (3, 6) colour=4 len=2 from (3, 4)
+wa30 L0 t19: blocked: expected (25, 35) got (24, 32); wall (3, 5) colour 1 (x0)
+wa30 L0 t19: plan to (3, 6) colour=4 len=4 from (3, 4)
+wa30 L0 t20: blocked: expected (17, 32) got (21, 32); wall (2, 4) colour 1 (x0)
+wa30 L0 t20: hypothesis reach exhausted -> select
+wa30 L0 t20: hypothesis select exhausted -> switch
+wa30 L0 t20: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t22: re-identification found no mover; continuing hypothesis ladder
+wa30 L0 t22: hypothesis select exhausted -> switch
+wa30 L0 t22: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t24: re-identified avatar at (20, 25)
+wa30 L0 t24: plan to (4, 2) colour=4 len=2 from (3, 3)
+wa30 L0 t25: blocked: expected (20, 18) got (20, 21); wall (3, 2) colour 1 (x0)
+wa30 L0 t25: plan to (4, 2) colour=4 len=6 from (3, 3)
+wa30 L0 t26: blocked: expected (13, 21) got (17, 20); wall (2, 3) colour 1 (x0)
+wa30 L0 t26: plan to (4, 2) colour=4 len=5 from (2, 3)
+wa30 L0 t27: blocked: expected (17, 13) got (16, 17); wall (2, 2) colour 1 (x0)
+wa30 L0 t27: plan to (4, 2) colour=4 len=4 from (2, 2)
+wa30 L0 t28: blocked: expected (16, 10) got (16, 13); wall (2, 1) colour 1 (x0)
+wa30 L0 t28: plan to (4, 2) colour=4 len=8 from (2, 2)
+wa30 L0 t29: blocked: expected (9, 13) got (13, 12); wall (1, 2) colour 1 (x0)
+wa30 L0 t29: plan to (4, 2) colour=4 len=3 from (2, 1)
+wa30 L0 t30: blocked: expected (20, 12) got (16, 12); wall (3, 1) colour 1 (x0)
+wa30 L0 t30: plan to (4, 2) colour=4 len=5 from (2, 1)
+wa30 L0 t31: blocked: expected (16, 5) got (16, 9); wall (2, 0) colour 1 (x0)
+wa30 L0 t31: plan to (4, 2) colour=4 len=25 from (2, 1)
+wa30 L0 t32: blocked: expected (9, 9) got (13, 8); wall (1, 1) colour 1 (x0)
+wa30 L0 t32: hypothesis reach exhausted -> select
+wa30 L0 t32: hypothesis select exhausted -> switch
+wa30 L0 t32: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t34: re-identification found no mover; continuing hypothesis ladder
+wa30 L0 t34: hypothesis select exhausted -> switch
+wa30 L0 t34: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t36: re-identification found no mover; continuing hypothesis ladder
+wa30 L0 t36: hypothesis select exhausted -> switch
+wa30 L0 t36: switch: pressing ACTION5 to change the controlled object
+wa30 L0 t38: re-identification found no mover; continuing hypothesis ladder
+wa30 L0 t38: hypothesis select exhausted -> switch
+wa30 L0 t38: hypothesis switch exhausted -> fire
+wa30 L0 t38: plan to (0, 2) colour=1 len=1 from (1, 2)
+wa30 L0 t39: blocked: expected (1, 16) got (5, 16); wall (0, 2) colour 1 (x0)
+wa30 L0 t41: re-identified avatar at (1, 16)
+wa30 L0 t41: plan to (0, 4) colour=1 len=2 from (0, 2)
+wa30 L0 t42: blocked: expected (1, 23) got (0, 20); wall (0, 3) colour 1 (x0)
+wa30 L0 t42: plan to (0, 5) colour=1 len=2 from (0, 3)
+wa30 L0 t43: blocked: expected (0, 27) got (0, 24); wall (0, 4) colour 1 (x0)
+wa30 L0 t43: plan to (0, 6) colour=1 len=5 from (0, 3)
+wa30 L0 t44: blocked: expected (7, 24) got (4, 24); wall (1, 3) colour 1 (x0)
+wa30 L0 t44: hypothesis fire exhausted -> explore
+wa30 L0 t44: FALLBACK: no reachable goal (cands=3, walls=23, tried=1, here=(0, 3), bg=1)
+cn04 L0 t4: probe results {1: None, 2: None, 3: None, 4: None}
+cn04 L0 t4: FALLBACK: no key produced a translation
+bp35 L0 t2: probe results {3: ((0, -8), 2, [11]), 4: ((0, 8), 2, [11])}
+bp35 L0 t2: model cell=8 avatar=[11] size=2 floor=10 dirs={3: (0, -1), 4: (0, 1)} pos=(38, 22)
+bp35 L0 t2: overlay: shape too small (2 px of colour 11)
+bp35 L0 t2: plan to (0, 2) colour=14 len=4 from (4, 2)
+bp35 L0 t2: overlay: shape too small (2 px of colour 11)
+bp35 L0 t2: plan to (0, 2) colour=14 len=6 from (4, 2)
+bp35 L0 t3: blocked: expected (38, 30) got (38, 28); wall (4, 3) colour 5 (x1)
+bp35 L0 t3: overlay: shape too small (2 px of colour 11)
+bp35 L0 t3: plan to (0, 3) colour=14 len=4 from (4, 3)
+bp35 L0 t3: overlay: shape too small (2 px of colour 11)
+bp35 L0 t3: plan to (0, 3) colour=14 len=6 from (4, 3)
+bp35 L0 t4: blocked: expected (38, 36) got (38, 34); wall (4, 4) colour 5 (x2)
+bp35 L0 t4: overlay: shape too small (2 px of colour 11)
+bp35 L0 t4: hypothesis reach exhausted -> select
+bp35 L0 t4: hypothesis select exhausted -> switch
+bp35 L0 t4: hypothesis switch exhausted -> explore
+bp35 L0 t4: FALLBACK: no reachable goal (cands=2, walls=4, tried=0, here=(4, 4), bg=10)

@@ -1,0 +1,5850 @@
+[
+ {
+  "game": "tn36",
+  "win_levels": 7,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "0": 353,
+   "1": 18,
+   "4": 550,
+   "5": 3015,
+   "9": 130,
+   "11": 30
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 4,
+    "bbox": [
+     41,
+     1,
+     61,
+     46
+    ],
+    "x": 41,
+    "y": 45,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 4,
+    "bbox": [
+     40,
+     1,
+     61,
+     42
+    ],
+    "x": 41,
+    "y": 42,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 4,
+    "bbox": [
+     36,
+     1,
+     61,
+     46
+    ],
+    "x": 36,
+    "y": 45,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 4,
+    "bbox": [
+     35,
+     1,
+     61,
+     42
+    ],
+    "x": 36,
+    "y": 42,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 4,
+    "bbox": [
+     26,
+     1,
+     61,
+     46
+    ],
+    "x": 26,
+    "y": 45,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 4,
+    "bbox": [
+     25,
+     1,
+     61,
+     42
+    ],
+    "x": 26,
+    "y": 42,
+    "colour": 1,
+    "size": 3,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "dc22",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "start_colours": {
+   "0": 188,
+   "2": 80,
+   "3": 1216,
+   "4": 1256,
+   "5": 1190,
+   "8": 71,
+   "9": 71,
+   "11": 4,
+   "13": 16,
+   "14": 4
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 9,
+     "bbox": [
+      0,
+      38,
+      11,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 2,
+       "dy": 2,
+       "dx": 0,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": -2,
+       "dx": 0,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 9,
+     "bbox": [
+      0,
+      40,
+      11,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 2,
+       "dx": 0,
+       "size": 4
+      },
+      {
+       "colour": 2,
+       "dy": -2,
+       "dx": 0,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 9,
+     "bbox": [
+      0,
+      40,
+      11,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 2,
+       "dy": 0,
+       "dx": 2,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -2,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 9,
+     "bbox": [
+      0,
+      40,
+      13,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": 2,
+       "size": 4
+      },
+      {
+       "colour": 2,
+       "dy": 0,
+       "dx": -2,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 25,
+    "y": 20,
+    "colour": 11,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 11,
+    "y": 40,
+    "colour": 14,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 20,
+    "y": 31,
+    "colour": 13,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 11,
+    "y": 36,
+    "colour": 9,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 11,
+    "y": 34,
+    "colour": 9,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 10,
+    "y": 37,
+    "colour": 9,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "re86",
+  "win_levels": 8,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "start_colours": {
+   "0": 1,
+   "4": 64,
+   "5": 3862,
+   "9": 56,
+   "11": 49,
+   "15": 64
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 61,
+     "bbox": [
+      23,
+      29,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 60,
+     "bbox": [
+      23,
+      26,
+      49,
+      55
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 61,
+     "bbox": [
+      23,
+      23,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 61,
+     "bbox": [
+      23,
+      32,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 58,
+     "bbox": [
+      23,
+      35,
+      49,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 58,
+     "bbox": [
+      23,
+      38,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 61,
+     "bbox": [
+      20,
+      32,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 60,
+     "bbox": [
+      17,
+      32,
+      46,
+      58
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 61,
+     "bbox": [
+      14,
+      32,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 61,
+     "bbox": [
+      23,
+      32,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 60,
+     "bbox": [
+      26,
+      32,
+      55,
+      58
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 61,
+     "bbox": [
+      29,
+      32,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 3,
+     "bbox": [
+      21,
+      27,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -18,
+       "dx": -15,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      21,
+      27,
+      36,
+      45
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 18,
+       "dx": 15,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 3,
+     "bbox": [
+      21,
+      27,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -18,
+       "dx": -15,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "r11l",
+  "win_levels": 6,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "0": 76,
+   "1": 17,
+   "2": 638,
+   "3": 12,
+   "5": 3318,
+   "6": 1,
+   "15": 34
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 66,
+    "bbox": [
+     0,
+     0,
+     24,
+     55
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 6,
+      "dx": 5,
+      "size": 1
+     }
+    ],
+    "x": 17,
+    "y": 47,
+    "colour": 6,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 75,
+    "bbox": [
+     0,
+     0,
+     27,
+     59
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 10,
+      "dx": 8,
+      "size": 1
+     }
+    ],
+    "x": 24,
+    "y": 55,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 76,
+    "bbox": [
+     0,
+     0,
+     27,
+     58
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 9,
+      "dx": 8,
+      "size": 1
+     }
+    ],
+    "x": 23,
+    "y": 54,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 78,
+    "bbox": [
+     0,
+     0,
+     26,
+     58
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 9,
+      "dx": 7,
+      "size": 1
+     }
+    ],
+    "x": 22,
+    "y": 53,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 80,
+    "bbox": [
+     0,
+     0,
+     26,
+     57
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 8,
+      "dx": 7,
+      "size": 1
+     }
+    ],
+    "x": 21,
+    "y": 52,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 74,
+    "bbox": [
+     0,
+     0,
+     25,
+     56
+    ],
+    "translation": [
+     {
+      "colour": 6,
+      "dy": 7,
+      "dx": 6,
+      "size": 1
+     }
+    ],
+    "x": 19,
+    "y": 49,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "ka59",
+  "win_levels": 7,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "start_colours": {
+   "0": 1,
+   "1": 607,
+   "2": 3249,
+   "4": 96,
+   "5": 1,
+   "14": 16,
+   "15": 126
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 19,
+     "bbox": [
+      18,
+      27,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 1,
+       "dy": 3,
+       "dx": 0,
+       "size": 9
+      },
+      {
+       "colour": 14,
+       "dy": -3,
+       "dx": 0,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 18,
+     "bbox": [
+      18,
+      24,
+      20,
+      29
+     ],
+     "translation": [
+      {
+       "colour": 1,
+       "dy": 3,
+       "dx": 0,
+       "size": 9
+      },
+      {
+       "colour": 14,
+       "dy": -3,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 0,
+       "dy": -3,
+       "dx": 0,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 19,
+     "bbox": [
+      18,
+      21,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 1,
+       "dy": 3,
+       "dx": 0,
+       "size": 9
+      },
+      {
+       "colour": 14,
+       "dy": -3,
+       "dx": 0,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 19,
+     "bbox": [
+      18,
+      30,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 3,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 1,
+       "dy": -3,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 18,
+     "bbox": [
+      18,
+      33,
+      20,
+      38
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 3,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 0,
+       "dy": 3,
+       "dx": 0,
+       "size": 1
+      },
+      {
+       "colour": 1,
+       "dy": -3,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 19,
+     "bbox": [
+      18,
+      36,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 3,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 1,
+       "dy": -3,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 19,
+     "bbox": [
+      15,
+      30,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -3,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 18,
+     "bbox": [
+      12,
+      30,
+      17,
+      32
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -3,
+       "size": 8
+      },
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -3,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 19,
+     "bbox": [
+      9,
+      30,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -3,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 19,
+     "bbox": [
+      18,
+      30,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": 3,
+       "size": 8
+      },
+      {
+       "colour": 1,
+       "dy": 0,
+       "dx": -3,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 18,
+     "bbox": [
+      21,
+      30,
+      26,
+      32
+     ],
+     "translation": [
+      {
+       "colour": 1,
+       "dy": 0,
+       "dx": -3,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 22,
+     "bbox": [
+      26,
+      30,
+      62,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 5,
+       "dy": 0,
+       "dx": 15,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 3,
+    "bbox": [
+     19,
+     31,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 4,
+      "dy": -32,
+      "dx": -44,
+      "size": 1
+     }
+    ],
+    "x": 28,
+    "y": 31,
+    "colour": 5,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 19,
+    "y": 31,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 3,
+    "bbox": [
+     19,
+     31,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 4,
+      "dy": -32,
+      "dx": -44,
+      "size": 1
+     }
+    ],
+    "x": 29,
+    "y": 30,
+    "colour": 14,
+    "size": 8,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 20,
+    "y": 30,
+    "colour": 14,
+    "size": 8,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 48,
+    "y": 26,
+    "colour": 4,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 15,
+    "y": 32,
+    "colour": 4,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "cd82",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "start_colours": {
+   "0": 164,
+   "2": 30,
+   "3": 359,
+   "4": 164,
+   "5": 3236,
+   "15": 143
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 201,
+     "bbox": [
+      14,
+      21,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 201,
+     "bbox": [
+      25,
+      21,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 51,
+     "bbox": [
+      27,
+      34,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 25,
+    "y": 32,
+    "colour": 2,
+    "size": 30,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 43,
+    "y": 7,
+    "colour": 0,
+    "size": 5,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 43,
+    "y": 4,
+    "colour": 15,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 95,
+    "bbox": [
+     26,
+     7,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 3,
+      "dy": 0,
+      "dx": 6,
+      "size": 5
+     }
+    ],
+    "x": 37,
+    "y": 4,
+    "colour": 0,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 45,
+    "y": 2,
+    "colour": 4,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 95,
+    "bbox": [
+     26,
+     7,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 3,
+      "dy": 0,
+      "dx": 6,
+      "size": 5
+     }
+    ],
+    "x": 39,
+    "y": 2,
+    "colour": 4,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "su15",
+  "win_levels": 9,
+  "available_actions": [
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 69,
+   "3": 29,
+   "4": 631,
+   "5": 3290,
+   "9": 59,
+   "15": 18
+  },
+  "actions": {
+   "7": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 46,
+    "y": 17,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 44,
+    "y": 19,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 42,
+    "y": 21,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 40,
+    "y": 23,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 38,
+    "y": 25,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     63,
+     63,
+     63
+    ],
+    "x": 36,
+    "y": 27,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "ar25",
+  "win_levels": 8,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 5,
+   "4": 45,
+   "5": 103,
+   "9": 3645,
+   "10": 189,
+   "11": 109
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      0,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      1,
+      63,
+      20
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      2,
+      63,
+      17
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      0,
+      63,
+      26
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      1,
+      63,
+      29
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      2,
+      63,
+      32
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 109,
+     "bbox": [
+      15,
+      0,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      12,
+      1,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 109,
+     "bbox": [
+      9,
+      2,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 109,
+     "bbox": [
+      18,
+      0,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 79,
+     "bbox": [
+      21,
+      1,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 80,
+     "bbox": [
+      24,
+      2,
+      63,
+      23
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      0,
+      63,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      1,
+      63,
+      1
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      2,
+      63,
+      2
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "7": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 25,
+    "y": 22,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 25,
+    "y": 19,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 25,
+    "y": 16,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 22,
+    "y": 16,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 19,
+    "y": 16,
+    "colour": 0,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 37,
+    "y": 20,
+    "colour": 4,
+    "size": 45,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "m0r0",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "start_colours": {
+   "5": 1453,
+   "10": 50,
+   "11": 1294,
+   "12": 1299
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 100,
+     "bbox": [
+      19,
+      44,
+      43,
+      53
+     ],
+     "translation": [
+      {
+       "colour": 10,
+       "dy": -5,
+       "dx": 0,
+       "size": 50
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      0,
+      0,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 10,
+       "dy": -5,
+       "dx": 0,
+       "size": 25
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 100,
+     "bbox": [
+      19,
+      49,
+      43,
+      58
+     ],
+     "translation": [
+      {
+       "colour": 10,
+       "dy": 5,
+       "dx": 0,
+       "size": 50
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      0,
+      0,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 100,
+     "bbox": [
+      14,
+      49,
+      48,
+      53
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 102,
+     "bbox": [
+      0,
+      0,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 100,
+     "bbox": [
+      19,
+      49,
+      43,
+      53
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      0,
+      0,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      0,
+      0,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 41,
+    "y": 51,
+    "colour": 10,
+    "size": 25,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 21,
+    "y": 51,
+    "colour": 10,
+    "size": 25,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "tu93",
+  "win_levels": 9,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "start_colours": {
+   "0": 261,
+   "2": 288,
+   "4": 1,
+   "5": 3465,
+   "6": 64,
+   "9": 8,
+   "14": 9
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      61,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      60,
+      63,
+      60,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      61,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      60,
+      63,
+      60,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      61,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      60,
+      63,
+      60,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 19,
+     "bbox": [
+      15,
+      15,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 8
+      },
+      {
+       "colour": 4,
+       "dy": 0,
+       "dx": 6,
+       "size": 1
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      61,
+      63,
+      62,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      60,
+      63,
+      60,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "s5i5",
+  "win_levels": 8,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "2": 72,
+   "3": 80,
+   "4": 72,
+   "5": 3797,
+   "11": 37,
+   "13": 10,
+   "14": 28
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 53,
+    "y": 10,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 52,
+    "y": 11,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 52,
+    "y": 9,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 51,
+    "y": 10,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 31,
+    "y": 10,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     63,
+     63,
+     63
+    ],
+    "x": 11,
+    "y": 52,
+    "colour": 13,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "ft09",
+  "win_levels": 6,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "0": 64,
+   "2": 144,
+   "4": 496,
+   "5": 2160,
+   "8": 448,
+   "9": 720,
+   "12": 64
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 51,
+    "y": 12,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 49,
+    "y": 46,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 49,
+    "y": 14,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 49,
+    "y": 10,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 47,
+    "y": 12,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 15,
+    "y": 10,
+    "colour": 0,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "sb26",
+  "win_levels": 8,
+  "available_actions": [
+   5,
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 20,
+   "2": 80,
+   "4": 3628,
+   "5": 152,
+   "8": 72,
+   "9": 36,
+   "11": 36,
+   "14": 36,
+   "15": 36
+  },
+  "actions": {
+   "5": [
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      53,
+      63,
+      53
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      62,
+      53,
+      62,
+      53
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      61,
+      53,
+      61,
+      53
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "7": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 46,
+    "y": 35,
+    "colour": 0,
+    "size": 5,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 46,
+    "y": 24,
+    "colour": 0,
+    "size": 5,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 18,
+    "y": 24,
+    "colour": 0,
+    "size": 5,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 17,
+    "y": 35,
+    "colour": 0,
+    "size": 5,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 20,
+    "bbox": [
+     41,
+     56,
+     46,
+     61
+    ],
+    "x": 44,
+    "y": 58,
+    "colour": 11,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 20,
+    "bbox": [
+     33,
+     56,
+     38,
+     61
+    ],
+    "x": 36,
+    "y": 58,
+    "colour": 9,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "ls20",
+  "win_levels": 7,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "start_colours": {
+   "0": 3,
+   "1": 2,
+   "3": 892,
+   "4": 2609,
+   "5": 439,
+   "8": 12,
+   "9": 45,
+   "11": 84,
+   "12": 10
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 52,
+     "bbox": [
+      13,
+      40,
+      38,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": -5,
+       "dx": 0,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": -5,
+       "dx": 0,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      14,
+      35,
+      38,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": -5,
+       "dx": 0,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": -5,
+       "dx": 0,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      15,
+      30,
+      38,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": -5,
+       "dx": 0,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": -5,
+       "dx": 0,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 2,
+     "bbox": [
+      13,
+      61,
+      13,
+      62
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      14,
+      61,
+      14,
+      62
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      15,
+      61,
+      15,
+      62
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 52,
+     "bbox": [
+      13,
+      45,
+      38,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": -5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      14,
+      45,
+      33,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": -5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      15,
+      45,
+      28,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": -5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 52,
+     "bbox": [
+      13,
+      45,
+      43,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": 5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      14,
+      45,
+      48,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": 5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 52,
+     "bbox": [
+      15,
+      45,
+      53,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 12,
+       "dy": 0,
+       "dx": 5,
+       "size": 10
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 5,
+       "size": 15
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "lp85",
+  "win_levels": 8,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "1": 48,
+   "2": 64,
+   "3": 1606,
+   "4": 1978,
+   "5": 32,
+   "8": 40,
+   "9": 64,
+   "10": 64,
+   "11": 32,
+   "14": 104,
+   "15": 64
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 47,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 42,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 37,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 32,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 27,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 22,
+    "y": 1,
+    "colour": 5,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "sk48",
+  "win_levels": 8,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 24,
+   "1": 16,
+   "2": 92,
+   "3": 28,
+   "4": 1384,
+   "5": 2412,
+   "6": 44,
+   "8": 32,
+   "9": 32,
+   "14": 32
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 96,
+     "bbox": [
+      11,
+      30,
+      22,
+      41
+     ],
+     "translation": [
+      {
+       "colour": 4,
+       "dy": 6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 6,
+       "dy": -6,
+       "dx": 0,
+       "size": 22
+      },
+      {
+       "colour": 0,
+       "dy": -6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 1,
+       "dy": -6,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 96,
+     "bbox": [
+      11,
+      24,
+      22,
+      35
+     ],
+     "translation": [
+      {
+       "colour": 3,
+       "dy": 6,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 4,
+       "dy": 6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 6,
+       "dy": -6,
+       "dx": 0,
+       "size": 22
+      },
+      {
+       "colour": 0,
+       "dy": -6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 1,
+       "dy": -6,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 96,
+     "bbox": [
+      11,
+      18,
+      22,
+      29
+     ],
+     "translation": [
+      {
+       "colour": 3,
+       "dy": 6,
+       "dx": 0,
+       "size": 8
+      },
+      {
+       "colour": 4,
+       "dy": 6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 6,
+       "dy": -6,
+       "dx": 0,
+       "size": 22
+      },
+      {
+       "colour": 0,
+       "dy": -6,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 1,
+       "dy": -6,
+       "dx": 0,
+       "size": 9
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 12,
+     "bbox": [
+      17,
+      38,
+      22,
+      39
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 12,
+     "bbox": [
+      23,
+      38,
+      28,
+      39
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 12,
+     "bbox": [
+      29,
+      38,
+      34,
+      39
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 12,
+     "bbox": [
+      35,
+      38,
+      40,
+      39
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "7": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 43,
+    "y": 58,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 38,
+    "y": 59,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 37,
+    "y": 58,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 32,
+    "y": 59,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 31,
+    "y": 58,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 26,
+    "y": 59,
+    "colour": 1,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "vc33",
+  "win_levels": 7,
+  "available_actions": [
+   6
+  ],
+  "start_colours": {
+   "0": 1216,
+   "3": 2580,
+   "4": 16,
+   "5": 168,
+   "7": 64,
+   "9": 32,
+   "11": 20
+  },
+  "actions": {},
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     0,
+     63,
+     0
+    ],
+    "x": 48,
+    "y": 48,
+    "colour": 4,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     0,
+     63,
+     0
+    ],
+    "x": 39,
+    "y": 29,
+    "colour": 11,
+    "size": 8,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     0,
+     63,
+     0
+    ],
+    "x": 51,
+    "y": 46,
+    "colour": 11,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 265,
+    "bbox": [
+     32,
+     0,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 11,
+      "dy": 0,
+      "dx": -4,
+      "size": 12
+     }
+    ],
+    "x": 62,
+    "y": 33,
+    "colour": 9,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 265,
+    "bbox": [
+     28,
+     0,
+     63,
+     63
+    ],
+    "translation": [
+     {
+      "colour": 11,
+      "dy": 0,
+      "dx": 4,
+      "size": 12
+     }
+    ],
+    "x": 62,
+    "y": 25,
+    "colour": 9,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     63,
+     0,
+     63,
+     0
+    ],
+    "x": 32,
+    "y": 0,
+    "colour": 7,
+    "size": 64,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "tr87",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "start_colours": {
+   "0": 14,
+   "1": 64,
+   "2": 1570,
+   "3": 1370,
+   "5": 320,
+   "7": 364,
+   "10": 394
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 13,
+     "bbox": [
+      15,
+      52,
+      19,
+      56
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 12,
+     "bbox": [
+      15,
+      52,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 7,
+     "bbox": [
+      15,
+      52,
+      18,
+      56
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 15,
+     "bbox": [
+      15,
+      53,
+      18,
+      56
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 9,
+     "bbox": [
+      15,
+      52,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 10,
+     "bbox": [
+      15,
+      52,
+      18,
+      56
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 28,
+     "bbox": [
+      15,
+      48,
+      47,
+      60
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 28,
+       "size": 14
+      },
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": -28,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 29,
+     "bbox": [
+      36,
+      48,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": 7,
+       "size": 14
+      },
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -7,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 28,
+     "bbox": [
+      29,
+      48,
+      40,
+      60
+     ],
+     "translation": [
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": 7,
+       "size": 14
+      },
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -7,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 28,
+     "bbox": [
+      15,
+      48,
+      26,
+      60
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 7,
+       "size": 14
+      },
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": -7,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 29,
+     "bbox": [
+      22,
+      48,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 7,
+       "size": 14
+      },
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": -7,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 28,
+     "bbox": [
+      29,
+      48,
+      40,
+      60
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 7,
+       "size": 14
+      },
+      {
+       "colour": 3,
+       "dy": 0,
+       "dx": -7,
+       "size": 14
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "lf52",
+  "win_levels": 10,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 724,
+   "1": 468,
+   "5": 172,
+   "9": 86,
+   "10": 2586,
+   "14": 60
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      0,
+      1,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      0,
+      2,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      0,
+      1,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      0,
+      2,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      0,
+      1,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      0,
+      2,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      0,
+      1,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      0,
+      2,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "7": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      0,
+      1,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      0,
+      2,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "x": 42,
+    "y": 39,
+    "colour": 14,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "x": 42,
+    "y": 27,
+    "colour": 14,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "x": 36,
+    "y": 21,
+    "colour": 14,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 29,
+    "bbox": [
+     0,
+     0,
+     27,
+     22
+    ],
+    "x": 24,
+    "y": 21,
+    "colour": 14,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 29,
+    "bbox": [
+     0,
+     0,
+     32,
+     22
+    ],
+    "x": 18,
+    "y": 21,
+    "colour": 14,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "x": 21,
+    "y": 30,
+    "colour": 9,
+    "size": 23,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "g50t",
+  "win_levels": 7,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "start_colours": {
+   "0": 3006,
+   "1": 9,
+   "5": 880,
+   "8": 82,
+   "9": 119
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 48,
+     "bbox": [
+      14,
+      8,
+      18,
+      18
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 6,
+       "dx": 0,
+       "size": 24
+      },
+      {
+       "colour": 5,
+       "dy": -6,
+       "dx": 0,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 49,
+     "bbox": [
+      14,
+      14,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 5,
+       "dy": -6,
+       "dx": 0,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 48,
+     "bbox": [
+      14,
+      20,
+      18,
+      30
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 6,
+       "dx": 0,
+       "size": 24
+      },
+      {
+       "colour": 5,
+       "dy": -6,
+       "dx": 0,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 48,
+     "bbox": [
+      14,
+      8,
+      24,
+      12
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 24
+      },
+      {
+       "colour": 5,
+       "dy": 0,
+       "dx": -6,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 49,
+     "bbox": [
+      20,
+      8,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 5,
+       "dy": 0,
+       "dx": -6,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 48,
+     "bbox": [
+      26,
+      8,
+      36,
+      12
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 24
+      },
+      {
+       "colour": 5,
+       "dy": 0,
+       "dx": -6,
+       "size": 24
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "sc25",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "start_colours": {
+   "0": 36,
+   "2": 169,
+   "3": 244,
+   "5": 3457,
+   "9": 22,
+   "10": 24,
+   "14": 128,
+   "15": 16
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 8,
+     "bbox": [
+      39,
+      19,
+      42,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 10,
+       "dy": 2,
+       "dx": -2,
+       "size": 4
+      },
+      {
+       "colour": 9,
+       "dy": -2,
+       "dx": 2,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 4,
+     "bbox": [
+      62,
+      0,
+      63,
+      1
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 8,
+     "bbox": [
+      39,
+      19,
+      42,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 2,
+       "dx": 2,
+       "size": 4
+      },
+      {
+       "colour": 10,
+       "dy": -2,
+       "dx": -2,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 4,
+     "bbox": [
+      62,
+      0,
+      63,
+      1
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 32,
+     "bbox": [
+      35,
+      19,
+      42,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 2,
+       "dy": 0,
+       "dx": 4,
+       "size": 16
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -4,
+       "size": 8
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -4,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 36,
+     "bbox": [
+      31,
+      0,
+      63,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 2,
+       "dy": 0,
+       "dx": 4,
+       "size": 16
+      },
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -4,
+       "size": 8
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -4,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 16,
+     "bbox": [
+      39,
+      19,
+      42,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 2,
+       "size": 8
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -2,
+       "size": 8
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 4,
+     "bbox": [
+      62,
+      0,
+      63,
+      1
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 0,
+    "x": 19,
+    "y": 54,
+    "colour": 15,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 16,
+    "y": 57,
+    "colour": 15,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 16,
+    "y": 51,
+    "colour": 15,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 13,
+    "y": 54,
+    "colour": 15,
+    "size": 4,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 40,
+    "y": 20,
+    "colour": 9,
+    "size": 8,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 42,
+    "y": 20,
+    "colour": 10,
+    "size": 8,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "sp80",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "start_colours": {
+   "1": 256,
+   "4": 12,
+   "6": 16,
+   "9": 80,
+   "11": 160,
+   "12": 3508,
+   "14": 64
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 162,
+     "bbox": [
+      12,
+      0,
+      63,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": -4,
+       "dx": 0,
+       "size": 80
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      60,
+      0,
+      61,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      58,
+      0,
+      59,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 162,
+     "bbox": [
+      12,
+      0,
+      63,
+      23
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 4,
+       "dx": 0,
+       "size": 80
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 162,
+     "bbox": [
+      12,
+      0,
+      61,
+      27
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 4,
+       "dx": 0,
+       "size": 80
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 162,
+     "bbox": [
+      12,
+      0,
+      59,
+      31
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 4,
+       "dx": 0,
+       "size": 80
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 34,
+     "bbox": [
+      8,
+      0,
+      63,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 34,
+     "bbox": [
+      4,
+      0,
+      61,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 34,
+     "bbox": [
+      0,
+      0,
+      59,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": -20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 34,
+     "bbox": [
+      12,
+      0,
+      63,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 34,
+     "bbox": [
+      16,
+      0,
+      61,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 34,
+     "bbox": [
+      20,
+      0,
+      59,
+      19
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 20,
+       "size": 16
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 2,
+     "bbox": [
+      62,
+      0,
+      63,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      60,
+      0,
+      61,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 2,
+     "bbox": [
+      58,
+      0,
+      59,
+      0
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 37,
+    "y": 3,
+    "colour": 4,
+    "size": 12,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 38,
+    "y": 5,
+    "colour": 6,
+    "size": 16,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 32,
+    "y": 0,
+    "colour": 14,
+    "size": 64,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 22,
+    "y": 17,
+    "colour": 9,
+    "size": 80,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 46,
+    "y": 57,
+    "colour": 11,
+    "size": 80,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 2,
+    "bbox": [
+     62,
+     0,
+     63,
+     0
+    ],
+    "x": 22,
+    "y": 57,
+    "colour": 11,
+    "size": 80,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "wa30",
+  "win_levels": 9,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "start_colours": {
+   "0": 4,
+   "1": 3920,
+   "2": 20,
+   "4": 36,
+   "7": 64,
+   "9": 40,
+   "14": 12
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 32,
+     "bbox": [
+      32,
+      44,
+      35,
+      51
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -4,
+       "dx": 0,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": -4,
+       "dx": 0,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 45,
+     "bbox": [
+      32,
+      36,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": -4,
+       "dx": 0,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": -4,
+       "dx": 0,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 32,
+     "bbox": [
+      32,
+      48,
+      35,
+      55
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 7,
+       "dx": 0,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": 3,
+       "dx": 0,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 33,
+     "bbox": [
+      32,
+      52,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 4,
+       "dx": 0,
+       "size": 12
+      },
+      {
+       "colour": 0,
+       "dy": 4,
+       "dx": 0,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 28,
+     "bbox": [
+      32,
+      56,
+      35,
+      62
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 4,
+       "dx": 0,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 32,
+     "bbox": [
+      28,
+      48,
+      35,
+      51
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 33,
+     "bbox": [
+      24,
+      48,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -4,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -4,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 32,
+     "bbox": [
+      20,
+      48,
+      27,
+      51
+     ],
+     "translation": [
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": -4,
+       "size": 4
+      },
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": -4,
+       "size": 12
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 32,
+     "bbox": [
+      32,
+      48,
+      39,
+      51
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 33,
+     "bbox": [
+      36,
+      48,
+      63,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": 4,
+       "size": 12
+      },
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 4,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 32,
+     "bbox": [
+      40,
+      48,
+      47,
+      51
+     ],
+     "translation": [
+      {
+       "colour": 14,
+       "dy": 0,
+       "dx": 4,
+       "size": 12
+      },
+      {
+       "colour": 0,
+       "dy": 0,
+       "dx": 4,
+       "size": 4
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      63,
+      63,
+      63,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 0,
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": []
+ },
+ {
+  "game": "cn04",
+  "win_levels": 6,
+  "available_actions": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "start_colours": {
+   "0": 135,
+   "4": 32,
+   "8": 36,
+   "10": 3749,
+   "14": 144
+  },
+  "actions": {
+   "1": [
+    {
+     "cells": 144,
+     "bbox": [
+      11,
+      8,
+      25,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": -3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 145,
+     "bbox": [
+      11,
+      0,
+      25,
+      25
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": -3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 144,
+     "bbox": [
+      11,
+      2,
+      25,
+      22
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": -3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "2": [
+    {
+     "cells": 144,
+     "bbox": [
+      11,
+      11,
+      25,
+      31
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 145,
+     "bbox": [
+      11,
+      0,
+      25,
+      34
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 144,
+     "bbox": [
+      11,
+      17,
+      25,
+      37
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 3,
+       "dx": 0,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "3": [
+    {
+     "cells": 198,
+     "bbox": [
+      8,
+      11,
+      25,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": -3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 199,
+     "bbox": [
+      5,
+      0,
+      22,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": -3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 198,
+     "bbox": [
+      2,
+      11,
+      19,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": -3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 198,
+     "bbox": [
+      11,
+      11,
+      28,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": 3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 199,
+     "bbox": [
+      14,
+      0,
+      31,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": 3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 198,
+     "bbox": [
+      17,
+      11,
+      34,
+      28
+     ],
+     "translation": [
+      {
+       "colour": 8,
+       "dy": 0,
+       "dx": 3,
+       "size": 18
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "5": [
+    {
+     "cells": 207,
+     "bbox": [
+      11,
+      11,
+      28,
+      28
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 199,
+     "bbox": [
+      11,
+      0,
+      28,
+      28
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 207,
+     "bbox": [
+      11,
+      11,
+      28,
+      28
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 279,
+    "bbox": [
+     11,
+     11,
+     49,
+     49
+    ],
+    "x": 39,
+    "y": 42,
+    "colour": 8,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 279,
+    "bbox": [
+     11,
+     11,
+     49,
+     49
+    ],
+    "x": 39,
+    "y": 36,
+    "colour": 8,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 135,
+    "bbox": [
+     11,
+     11,
+     25,
+     25
+    ],
+    "x": 21,
+    "y": 27,
+    "colour": 8,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 135,
+    "bbox": [
+     11,
+     11,
+     25,
+     25
+    ],
+    "x": 15,
+    "y": 27,
+    "colour": 8,
+    "size": 9,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 0,
+    "x": 32,
+    "y": 0,
+    "colour": 4,
+    "size": 32,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 135,
+    "bbox": [
+     11,
+     11,
+     25,
+     25
+    ],
+    "x": 23,
+    "y": 12,
+    "colour": 0,
+    "size": 135,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ },
+ {
+  "game": "bp35",
+  "win_levels": 9,
+  "available_actions": [
+   3,
+   4,
+   6,
+   7
+  ],
+  "start_colours": {
+   "0": 64,
+   "3": 178,
+   "5": 1894,
+   "9": 6,
+   "10": 1805,
+   "11": 2,
+   "14": 147
+  },
+  "actions": {
+   "3": [
+    {
+     "cells": 47,
+     "bbox": [
+      0,
+      37,
+      23,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": 6,
+       "size": 23
+      },
+      {
+       "colour": 11,
+       "dy": 0,
+       "dx": -8,
+       "size": 2
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      63,
+      2,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "4": [
+    {
+     "cells": 47,
+     "bbox": [
+      0,
+      37,
+      29,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 6
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -6,
+       "size": 23
+      },
+      {
+       "colour": 11,
+       "dy": 0,
+       "dx": 6,
+       "size": 2
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 47,
+     "bbox": [
+      1,
+      37,
+      35,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 6
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -6,
+       "size": 23
+      },
+      {
+       "colour": 11,
+       "dy": 0,
+       "dx": 6,
+       "size": 2
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 47,
+     "bbox": [
+      2,
+      37,
+      41,
+      63
+     ],
+     "translation": [
+      {
+       "colour": 9,
+       "dy": 0,
+       "dx": 6,
+       "size": 6
+      },
+      {
+       "colour": 10,
+       "dy": 0,
+       "dx": -6,
+       "size": 23
+      },
+      {
+       "colour": 11,
+       "dy": 0,
+       "dx": 6,
+       "size": 2
+      }
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ],
+   "7": [
+    {
+     "cells": 1,
+     "bbox": [
+      0,
+      63,
+      0,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      1,
+      63,
+      1,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    },
+    {
+     "cells": 1,
+     "bbox": [
+      2,
+      63,
+      2,
+      63
+     ],
+     "state": "NOT_FINISHED",
+     "levels": 0
+    }
+   ]
+  },
+  "clicks": [
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 22,
+    "y": 39,
+    "colour": 11,
+    "size": 2,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 20,
+    "y": 38,
+    "colour": 9,
+    "size": 6,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 62,
+    "y": 61,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 62,
+    "y": 55,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 62,
+    "y": 49,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   },
+   {
+    "cells": 1,
+    "bbox": [
+     0,
+     63,
+     0,
+     63
+    ],
+    "x": 62,
+    "y": 43,
+    "colour": 3,
+    "size": 1,
+    "state": "NOT_FINISHED",
+    "levels": 0
+   }
+  ]
+ }
+]
